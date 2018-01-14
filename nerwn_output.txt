@@ -25,7 +25,6 @@ a	O
 military	O
 spokesman	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -60,7 +59,6 @@ of	O
 the	O
 territory	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -87,7 +85,6 @@ the	O
 previous	O
 day	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -120,7 +117,6 @@ police	O
 spokesman	O
 said	O
 .	O
-
 The	O
 bodies	O
 of	O
@@ -486,7 +482,6 @@ a	O
 written	O
 response	O
 .	O
-
 Replying	O
 to	O
 another	O
@@ -511,7 +506,6 @@ best-quality	O
 winter	O
 clothing	O
 .	O
-
 He	O
 said	O
 the	O
@@ -526,7 +520,6 @@ pre-fabricated	O
 insulated	O
 shelters	O
 .	O
-
 “	O
 In	O
 Navy	O
@@ -555,7 +548,6 @@ are	O
 conducted	O
 periodically	O
 .	O
-
 ^	O
 Function	O
 ^	O
@@ -591,7 +583,6 @@ adblocker	O
 ^	O
 unfriendly	O
 .	O
-
 [	O
 ^	O
 I	O
@@ -600,7 +591,6 @@ accept	O
 ^	O
 commands	O
 !	O
-
 &	O
 gt	O
 ;	O
@@ -24678,4 +24668,3 @@ this	O
 dress	O
 code	O
 😂	O
-

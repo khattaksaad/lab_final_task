@@ -25,7 +25,6 @@ a	O
 military	O
 spokesman	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -60,7 +59,6 @@ of	O
 the	O
 territory	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -87,7 +85,6 @@ the	O
 previous	O
 day	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -120,7 +117,6 @@ police	O
 spokesman	O
 said	O
 .	O
-
 The	O
 bodies	O
 of	O
@@ -153,7 +149,6 @@ and	O
 weather	O
 conditions	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -187,7 +182,6 @@ Rajesh	I-person
 Kalia	I-person
 said	O
 .	O
-
 Visuals	O
 of	O
 the	O
@@ -197,7 +191,6 @@ in	O
 Gurez	B-location
 sector	I-location
 .	O
-
 (	O
 Source	O
 :	O
@@ -212,13 +205,11 @@ in	O
 Gurez	B-location
 sector	I-location
 .	O
-
 (	O
 Source	O
 :	O
 ANI	B-group
 )	O
-
 “	O
 Arrangements	O
 are	O
@@ -250,14 +241,12 @@ Rajesh	B-person
 Kalia	I-person
 said	O
 .	O
-
 Watch	O
 What	B-creative-work
 Else	I-creative-work
 is	I-creative-work
 Making	I-creative-work
 News	I-creative-work
-
 “	O
 Swift	O
 action	O
@@ -282,7 +271,6 @@ of	O
 six	O
 soldiers	O
 .	O
-
 Unfortunately	O
 ,	O
 three	O
@@ -312,7 +300,6 @@ post	O
 he	O
 said	O
 .	O
-
 ^	O
 Function	O
 ^	O
@@ -348,7 +335,6 @@ adblocker	O
 ^	O
 unfriendly	O
 .	O
-
 [	O
 ^	O
 I	O
@@ -357,7 +343,6 @@ accept	O
 ^	O
 commands	O
 !	O
-
 Road	O
 and	O
 airport	O
@@ -369,14 +354,12 @@ avalanche	O
 risk	O
 remains	O
 high	O
-
 [	O
 IMAGE	O
 ]	O
 (	O
 http://images.indianexpress.com/2015/05/drdo-logo-thumb.jpg?w=480	O
 )	O
-
 The	O
 DRDO	B-group
 is	O
@@ -396,7 +379,6 @@ much	O
 precise	O
 manner	O
 .	O
-
 (	O
 File	O
 Photo	O
@@ -420,12 +402,10 @@ much	O
 precise	O
 manner	O
 .	O
-
 (	O
 File	O
 Photo	O
 )	O
-
 The	O
 Defence	B-group
 Research	I-group
@@ -456,7 +436,6 @@ said	O
 on	O
 Friday	O
 .	O
-
 “	O
 Presently	O
 ,	O
@@ -486,7 +465,6 @@ a	O
 written	O
 response	O
 .	O
-
 Replying	O
 to	O
 another	O
@@ -511,7 +489,6 @@ best-quality	O
 winter	O
 clothing	O
 .	O
-
 He	O
 said	O
 the	O
@@ -526,7 +503,6 @@ pre-fabricated	O
 insulated	O
 shelters	O
 .	O
-
 “	O
 In	O
 Navy	O
@@ -555,7 +531,6 @@ are	O
 conducted	O
 periodically	O
 .	O
-
 ^	O
 Function	O
 ^	O
@@ -591,7 +566,6 @@ adblocker	O
 ^	O
 unfriendly	O
 .	O
-
 [	O
 ^	O
 I	O
@@ -600,7 +574,6 @@ accept	O
 ^	O
 commands	O
 !	O
-
 &	O
 gt	O
 ;	O
@@ -613,7 +586,6 @@ these	O
 alleged	O
 criticisms	O
 ?	O
-
 This	O
 fucker	O
 should	O
@@ -634,12 +606,10 @@ he	O
 likes	O
 Trump	B-person
 .	O
-
 Bhangra	B-person
 is	O
 Punjabi	B-location
 .	O
-
 A	O
 lot	O
 of	O
@@ -665,7 +635,6 @@ exec	O
 to	O
 make	O
 .	O
-
 Toni	B-person
 Kroos	I-person
 -	O
@@ -683,7 +652,6 @@ near-certain	O
 full	O
 XI	O
 .	O
-
 [	O
 Rip	O
 Chad	B-person
@@ -691,7 +659,6 @@ Chad	B-person
 (	O
 https://www.reddit.com/r/soccer/comments/5mi9bl/granada_and_memo_ochoa_are_ready_to_end_real/	O
 )	O
-
 [	O
 link	O
 to	O
@@ -700,9 +667,7 @@ thread	O
 (	O
 https://www.reddit.com/r/news/comments/5pc0rf/comment/dcq17sw?st=IY7VWPYA&amp;sh=6e21e751	O
 )	O
-
 https://www.reddit.com/r/soccer/comments/5qop2n/deyverson_al%C3%A1ves_and_god%C3%ADn_atl%C3%A9tico_spitting_at/	O
-
 Nope	O
 ,	O
 [	O
@@ -711,7 +676,6 @@ have	O
 multiple	O
 sources	O
 .	O
-
 [	O
 Action	O
 plan	O
@@ -722,11 +686,9 @@ place	O
 (	O
 https://np.reddit.com/r/newzealand/comments/5nvswj/my_israeli_war_effort_and_money_saving_tip_how_to/?ref=search_posts	O
 )	O
-
 KEINE	B-person
 BREMSEN	I-person
 !	O
-
 All	O
 those	O
 in	O
@@ -738,7 +700,6 @@ did	O
 it	O
 "	O
 .	O
-
 What	O
 country	O
 in	O
@@ -758,7 +719,6 @@ their	O
 interests	O
 ?	O
 "	O
-
 He	O
 got	O
 sent	O
@@ -770,16 +730,12 @@ game	O
 vs	O
 Bordeaux	B-group
 .	O
-
 https://www.reddit.com/r/newzealand/comments/5p0edk/comment/dcnrf9t?st=IY5U4XSO&amp;sh=9fd7c3a9Ijustcouldn'tseetheedgeoftheNewplymouthradarcircleonOP'spic.	O
-
 COYB	O
 !	O
-
 Oh	O
 well	O
 .	O
-
 /	O
 r	O
 /	O
@@ -806,7 +762,6 @@ s	O
 avoiding	O
 the	O
 media	O
-
 It	O
 '	O
 s	O
@@ -832,7 +787,6 @@ too	O
 even	O
 -	O
 https://www.reddit.com/r/ireland/comments/5m6bs8/kerrygolds_african_tv_ads_are_a_little_bit_uhh/	O
-
 Guy	O
 sounds	O
 like	O
@@ -840,7 +794,6 @@ a	O
 Grade	O
 A	O
 Douche	O
-
 Biased	O
 ,	O
 but	O
@@ -860,9 +813,7 @@ the	O
 top	O
 comment	O
 .	O
-
 https://www.reddit.com/r/soccer/comments/5nhf8x/walter_smithmessi_was_right_we_did_play/dcbjevx/?context=3onthecontrarytrueMadridistasloveme.😢CryMessifanboy	O
-
 It	O
 '	O
 s	O
@@ -887,7 +838,6 @@ all	O
 troll	O
 posts	O
 .	O
-
 I	O
 hope	O
 y	O
@@ -906,17 +856,14 @@ the	O
 last	O
 thread	O
 .	O
-
 Comme	O
 ça	O
 :	O
-
 [	O
 New	O
 MatchThread	O
 here	O
 .	O
-
 LMAOOOOOOOO	O
 ,	O
 are	O
@@ -936,7 +883,6 @@ in	O
 first	O
 place	O
 ?	O
-
 Living	B-location
 Computer	I-location
 Museum	I-location
@@ -952,7 +898,6 @@ and	O
 Observation	B-location
 Deck	I-location
 ,	O
-
 You	O
 posted	O
 this	O
@@ -966,7 +911,6 @@ still	O
 posting	O
 here	O
 ?	O
-
 Aww	O
 shit	O
 this	O
@@ -975,7 +919,6 @@ go	O
 into	O
 overdrive	O
 now	O
-
 CVS	B-corporation
 selling	O
 their	O
@@ -990,7 +933,6 @@ at	O
 th	O
 price	O
 .	O
-
 Trump	B-person
 :	O
 I	O
@@ -1005,19 +947,16 @@ jobs	O
 to	O
 Michigan	B-location
 !	O
-
 Becky	B-person
 in	O
 a	O
 Snickers	B-product
 advert	O
 ?	O
-
 ]	O
 (	O
 https://www.reddit.com/r/soccer/comments/13xmsv/we_all_know_the_neymars_the_g%C3%B6tzes_and_the_iscos/c785ffz/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=soccer	O
 )	O
-
 I	O
 looked	O
 this	O
@@ -1038,7 +977,6 @@ $	O
 104	O
 k	O
 .	O
-
 You	O
 mean	O
 they	O
@@ -1055,7 +993,6 @@ https://www.reddit.com/r/ireland/comments/11mm7z/plunkett_station_waterford/	O
 in	O
 Ireland	B-location
 .	O
-
 I	O
 remember	O
 having	O
@@ -1081,7 +1018,6 @@ which	O
 was	O
 impressive	O
 .	O
-
 Looks	O
 like	O
 Grimaldo	B-person
@@ -1090,7 +1026,6 @@ linked	O
 with	O
 MU	B-group
 too	O
-
 But	O
 I	O
 thought	O
@@ -1099,7 +1034,6 @@ had	O
 joined	O
 Boro	B-group
 ?	O
-
 You	O
 posted	O
 in	O
@@ -1110,7 +1044,6 @@ calgary	B-location
 too	O
 .	O
 .	O
-
 [	O
 This	O
 interview	O
@@ -1138,7 +1071,6 @@ city	O
 moves	O
 in	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -1150,13 +1082,11 @@ conversion	O
 rate	O
 in	O
 Europe	B-location
-
 Cheney	B-person
 '	O
 s	O
 back	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -1182,7 +1112,6 @@ react	O
 to	O
 this	O
 .	O
-
 *	O
 *	O
 redditor	O
@@ -1190,7 +1119,6 @@ redditor	O
 *	O
 :	O
 NLWastedLink	O
-
 Dzeko	B-person
 penalty	O
 miss	O
@@ -1207,7 +1135,6 @@ https://www.reddit.com/r/soccer/	O
 top	O
 post	O
 .	O
-
 Wow	O
 ,	O
 /	B-group
@@ -1228,11 +1155,9 @@ on	O
 this	O
 topic	O
 .	O
-
 Love	O
 Lynda	B-person
 .	O
-
 Here	O
 '	O
 s	O
@@ -1247,7 +1172,6 @@ experience	O
 in	O
 Calgary	B-location
 :	O
-
 [	O
 OP	O
 of	O
@@ -1263,7 +1187,6 @@ the	O
 Ronaldo	B-person
 criticism	O
 .	O
-
 You	O
 '	O
 re	O
@@ -1277,7 +1200,6 @@ point	O
 of	O
 view	O
 .	O
-
 *	O
 *	O
 redditor	O
@@ -1285,7 +1207,6 @@ redditor	O
 *	O
 :	O
 Quickloot	B-product
-
 *	O
 *	O
 submission	O
@@ -1305,11 +1226,9 @@ horse	O
 Marengo	O
 to	O
 Ireland	B-location
-
 [	O
 Yo	O
 .	O
-
 *	O
 *	O
 submission	O
@@ -1329,7 +1248,6 @@ at	O
 CVG	B-location
 yet	O
 ?	O
-
 Reddit	O
 '	O
 s	O
@@ -1338,13 +1256,11 @@ guys	O
 say	O
 yes	O
 .	O
-
 Media	O
 pounces	O
 on	O
 it	O
 .	O
-
 they	O
 changed	O
 all	O
@@ -1353,7 +1269,6 @@ topics	O
 to	O
 Zlatan	B-product
 .	O
-
 The	O
 mods	B-group
 deleted	O
@@ -1376,7 +1291,6 @@ being	O
 off	O
 topic	O
 .	O
-
 Yeah	O
 ,	O
 and	O
@@ -1422,7 +1336,6 @@ useless	O
 they	O
 are	O
 :	O
-
 Step	O
 2	O
 :	O
@@ -1432,7 +1345,6 @@ Google	B-creative-work
 (	O
 http://www.google.co.nz	O
 )	O
-
 Lol	O
 this	O
 is	O
@@ -1448,7 +1360,6 @@ major	O
 city	O
 is	O
 like	O
-
 You	O
 could	O
 try	O
@@ -1466,11 +1377,9 @@ they	O
 reply	O
 :	O
 D	O
-
 Resultat	O
 .	O
 dk	O
-
 *	O
 *	O
 Edit	O
@@ -1483,7 +1392,6 @@ that	O
 blew	O
 up	O
 .	O
-
 I	O
 asked	O
 Bellerin	B-person
@@ -1504,13 +1412,11 @@ might	O
 surprise	O
 you	O
 .	O
-
 &	O
 gt	O
 ;	O
 Barca	B-group
 flair	O
-
 Where	O
 '	O
 s	O
@@ -1535,7 +1441,6 @@ from	O
 the	O
 goalline	O
 ?	O
-
 Hey	O
 Tom	B-person
 ,	O
@@ -1546,7 +1451,6 @@ on	O
 this	O
 thread	O
 ?	O
-
 &	O
 gt	O
 ;	O
@@ -1563,7 +1467,6 @@ s	O
 GDP	O
 statistics	O
 .	O
-
 True	O
 ,	O
 but	O
@@ -1591,7 +1494,6 @@ than	O
 eliminating	O
 fees	O
 .	O
-
 She	O
 '	O
 s	O
@@ -1606,7 +1508,6 @@ The	B-creative-work
 X-Files	I-creative-work
 started	O
 .	O
-
 *	O
 *	O
 submission	O
@@ -1627,7 +1528,6 @@ cost	O
 €	O
 100	O
 M	O
-
 Not	O
 sure	O
 if	O
@@ -1636,7 +1536,6 @@ Donald	B-person
 on	O
 this	O
 .	O
-
 EDIT	O
 :	O
 No	O
@@ -1662,7 +1561,6 @@ supporters	O
 to	O
 continue	O
 ?	O
-
 Perhaps	O
 this	O
 paper	O
@@ -1677,7 +1575,6 @@ July	O
 are	O
 underdiagnosed	O
 ?	O
-
 If	O
 PNG	B-location
 is	O
@@ -1699,7 +1596,6 @@ what	O
 they	O
 need	O
 ?	O
-
 Maybe	O
 you	O
 could	O
@@ -1712,7 +1608,6 @@ Great	B-corporation
 Southern	I-corporation
 Television	I-corporation
 )	O
-
 &	O
 gt	O
 ;	O
@@ -1722,7 +1617,6 @@ m	O
 an	O
 ex	O
 Muslim	B-group
-
 There	O
 is	O
 nothing	O
@@ -1733,13 +1627,11 @@ Huron	B-group
 disposal	O
 site	O
 .	O
-
 Her	O
 name	O
 is	O
 Scout	B-person
 .	O
-
 Morocco	B-group
 here	O
 we	O
@@ -1757,7 +1649,6 @@ that	O
 not	O
 14	O
 loss	O
-
 98	O
 .	O
 2	O
@@ -1775,7 +1666,6 @@ sources	O
 in	O
 2016	O
 .	O
-
 Was	O
 on	O
 the	O
@@ -1798,7 +1688,6 @@ her	O
 own	O
 income	O
 .	O
-
 *	O
 *	O
 submission	O
@@ -1814,7 +1703,6 @@ B	B-group
 .	I-group
 C	I-group
 .	I-group
-
 [	O
 Source	O
 ]	O
@@ -1826,7 +1714,6 @@ at	O
 r	I-location
 /	I-location
 southafrica	I-location
-
 The	O
 idea	O
 that	O
@@ -1843,7 +1730,6 @@ other	O
 is	O
 ludicrous	O
 .	O
-
 I	O
 hear	O
 audio	O
@@ -1862,7 +1748,6 @@ full	O
 build	O
 up	O
 .	O
-
 Surprisingly	O
 no	O
 PMs	O
@@ -1886,7 +1771,6 @@ s	O
 pretty	O
 thorough	O
 .	O
-
 The	O
 rest	O
 of	O
@@ -1924,7 +1808,6 @@ crime	O
 *	O
 *	O
 .	O
-
 For	O
 those	O
 complaining	O
@@ -1960,7 +1843,6 @@ not	O
 get	O
 removed	O
 :	O
-
 You	O
 do	O
 realize	O
@@ -1971,7 +1853,6 @@ by	O
 CBC	B-corporation
 Manitoba	I-corporation
 .	O
-
 *	O
 *	O
 submission	O
@@ -1989,7 +1870,6 @@ PSG	B-group
 -	O
 1	O
 )	O
-
 Dude	O
 [	O
 definitely	O
@@ -2009,7 +1889,6 @@ market	O
 at	O
 all	O
 .	O
-
 Here	O
 is	O
 the	O
@@ -2019,7 +1898,6 @@ Rastus	B-person
 and	O
 Pete	B-person
 .	O
-
 For	O
 people	O
 asking	O
@@ -2035,18 +1913,15 @@ here	O
 (	O
 https://www.reddit.com/r/news/comments/5m2ivk/chicago_police_4_in_custody_after_young_man/	O
 )	O
-
 Rudder	O
 breaks	O
 .	O
-
 Hey	O
 check	O
 out	O
 this	O
 :	O
 https://www.reddit.com/r/unitedkingdom/comments/5ly5cy/rock_hard_brexit/dbzk92t/	O
-
 *	O
 *	O
 submission	O
@@ -2058,7 +1933,6 @@ Concorde	B-product
 over	O
 Calgary	B-location
 1977	O
-
 That	O
 '	O
 s	O
@@ -2086,19 +1960,16 @@ C	O
 '	O
 s	O
 .	O
-
 [	O
 Oh	O
 look	O
 .	O
-
 [	O
 Staaaahp	O
 ]	O
 (	O
 http://www.reddit.com/r/news/comments/5m863w/-/dc25xfj	O
 )	O
-
 [	O
 It	O
 '	O
@@ -2114,7 +1985,6 @@ OP	O
 s	O
 course	O
 .	O
-
 [	O
 The	O
 link	O
@@ -2129,7 +1999,6 @@ of	O
 this	O
 thread	O
 .	O
-
 Ah	O
 ,	O
 the	O
@@ -2139,7 +2008,6 @@ Adelaide	B-location
 [	O
 Digeridoo	B-creative-work
 !	O
-
 Would	O
 take	O
 Ntep	B-person
@@ -2164,12 +2032,10 @@ team	O
 right	O
 now	O
 .	O
-
 Обсуждение	O
 на	O
 английском	O
 https://www.reddit.com/r/canada/comments/5p52wh/stephen_harper_trump_will_reverse_the_cornerstone/	O
-
 Just	O
 ask	O
 him	O
@@ -2184,7 +2050,6 @@ Korea	I-location
 (	O
 https://np.reddit.com/r/AMA/comments/5hywfx/i_have_just_got_back_from_a_trip_to_north_korea/	O
 )	O
-
 *	O
 *	O
 submission	O
@@ -2196,7 +2061,6 @@ Lost	O
 RC	O
 plane	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -2211,7 +2075,6 @@ who	O
 voted	O
 remain	O
 )	O
-
 Long	O
 story	O
 short	O
@@ -2247,7 +2110,6 @@ for	O
 everyone	O
 else	O
 ?	O
-
 *	O
 [	O
 Stew	B-location
@@ -2260,7 +2122,6 @@ Garage	I-location
 (	O
 http://stewsgarage.com/	O
 )	O
-
 It	O
 is	O
 well-known	O
@@ -2277,18 +2138,15 @@ https://np.reddit.com/r/ireland/comments/3dpuxy/visiting_your_beautiful_country_
 the	O
 Irish	O
 .	O
-
 Colluding	O
 with	O
 Putin	B-person
 ,	O
 hahaha	O
 !	O
-
 Source	O
 -	O
 https://www.reddit.com/r/ireland/comments/5t04xc/there_was_an_attempt/	O
-
 I	O
 '	O
 d	O
@@ -2301,7 +2159,6 @@ that	O
 in	O
 the	O
 NHL	B-corporation
-
 TL	O
 ;	O
 D	O
@@ -2318,7 +2175,6 @@ from	O
 your	O
 carrier	O
 .	O
-
 There	O
 has	O
 been	O
@@ -2350,7 +2206,6 @@ becoming	O
 a	O
 driver	O
 .	O
-
 you	O
 '	O
 re	O
@@ -2359,9 +2214,7 @@ late	O
 ,	O
 OP	O
 :	O
-
 https://www.reddit.com/r/soccer/comments/5qovle/sinan_g%C3%BCm%C3%BC%C5%9F_goal_sneijder_assist_galatasaray_6_0/	O
-
 [	O
 Warum	O
 das	O
@@ -2371,7 +2224,6 @@ beschissene	O
 Idee	O
 ist	O
 .	O
-
 (	O
 personally	O
 ,	O
@@ -2387,7 +2239,6 @@ lover	O
 .	O
 ;	O
 )	O
-
 Edit	O
 :	O
 [	O
@@ -2401,7 +2252,6 @@ wondering	O
 (	O
 https://www.reddit.com/r/soccer/comments/5pwos9/slug/dcuerzp	O
 )	O
-
 Yet	O
 in	O
 [	O
@@ -2430,7 +2280,6 @@ denouncing	O
 this	O
 debacle	O
 .	O
-
 [	O
 Aaaaaand	O
 there	O
@@ -2440,13 +2289,11 @@ is	O
 (	O
 https://www.reddit.com/r/newzealand/comments/5zhb0d/auckland_university_has_introduced_allgender/deydfz7/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=newzealand	O
 )	O
-
 BuzzFeed	B-corporation
 took	O
 the	O
 bait	O
 .	O
-
 /	O
 r	O
 /	O
@@ -2478,7 +2325,6 @@ and	O
 more	O
 permanent	O
 .	O
-
 *	O
 *	O
 comment	O
@@ -2489,7 +2335,6 @@ content	O
 Marseille	B-location
 has	O
 .	O
-
 Original	O
 post	O
 :	O
@@ -2506,7 +2351,6 @@ attack	O
 (	O
 https://www.reddit.com/r/worldnews/comments/5lcaed/many_wounded_in_istanbul_nightclub_attack/	O
 )	O
-
 It	O
 '	O
 s	O
@@ -2517,7 +2361,6 @@ of	O
 the	O
 goals	O
 .	O
-
 Velvet	B-person
 has	O
 such	O
@@ -2537,7 +2380,6 @@ disagreed	O
 with	O
 him	O
 :	O
-
 Hector	B-person
 was	O
 holding	O
@@ -2552,10 +2394,8 @@ injuries	O
 /	O
 fitness	O
 .	O
-
 Exatamente	O
 .	O
-
 Narsingh	B-person
 to	O
 see	O
@@ -2572,7 +2412,6 @@ https://www.reddit.com/r/soccer/comments/5ne3ed/psv_right_winger_luciano_narsing
 )	O
 totally	O
 brutal	O
-
 you	O
 mean	O
 Tomi	B-person
@@ -2583,7 +2422,6 @@ just	O
 referenced	O
 her	O
 here	O
-
 *	O
 *	O
 redditor	O
@@ -2591,7 +2429,6 @@ redditor	O
 *	O
 :	O
 JamesakaNoah	B-person
-
 Wow	O
 ,	O
 I	O
@@ -2600,7 +2437,6 @@ m	O
 an	O
 idiot	O
 .	O
-
 Most	O
 women	O
 in	O
@@ -2617,7 +2453,6 @@ situation	O
 https://www.reddit.com/r/worldnews/comments/54khw0/saudi_women_file_petition_to_end_male/d82ygzg/	O
 )	O
 .	O
-
 I	O
 remember	O
 around	O
@@ -2644,7 +2479,6 @@ goals	O
 since	O
 2009	O
 .	O
-
 They	O
 actually	O
 regularly	O
@@ -2667,7 +2501,6 @@ post	O
 here	O
 REEEE	O
 "	O
-
 As	O
 you	O
 can	O
@@ -2682,12 +2515,10 @@ him	O
 big	O
 time	O
 .	O
-
 Best	O
 Pho	O
 in	O
 Calgary	B-location
-
 The	O
 title	O
 should	O
@@ -2704,7 +2535,6 @@ which	O
 mentions	O
 Swansea	B-group
 .	O
-
 Hopefully	O
 ,	O
 Bex	B-location
@@ -2724,7 +2554,6 @@ their	O
 delicious	O
 chocalate	O
 .	O
-
 *	O
 *	O
 submission	O
@@ -2747,18 +2576,15 @@ divest	O
 from	O
 fossil	O
 fuels	O
-
 Pls	O
 no	O
 Tom	B-person
-
 [	O
 Snickers	B-product
 ]	O
 (	O
 https://www.reddit.com/r/ireland/comments/3dpuxy/visiting_your_beautiful_country_this_weekend_want/	O
 )	O
-
 Original	O
 post	O
 :	O
@@ -2778,7 +2604,6 @@ Palace	I-group
 (	O
 https://www.reddit.com/r/soccer/comments/5ny9tj/andy_carroll_goal_vs_crystal_palace20/	O
 )	O
-
 Uh	O
 ,	O
 they	O
@@ -2796,7 +2621,6 @@ of	O
 the	O
 country	O
 .	O
-
 Did	O
 you	O
 miss	O
@@ -2808,7 +2632,6 @@ https://www.reddit.com/r/soccer/comments/5lrdkr/ars%C3%A8ne_wenger_in_20_years_i
 )	O
 yesterday	O
 ?	O
-
 [	O
 Ritchie	B-person
 McClaw	I-person
@@ -2816,7 +2639,6 @@ McClaw	I-person
 (	O
 https://imgur.com/a/xP0Ta	O
 )	O
-
 Crosspost	O
 do	O
 r	O
@@ -2824,7 +2646,6 @@ r	O
 worldnews	O
 ,	O
 https://www.reddit.com/r/worldnews/comments/5nktt8/brazilian_farm_owners_form_militias_to_attack/	O
-
 Ca	O
 serait	O
 meme	O
@@ -2848,7 +2669,6 @@ de	O
 survivant	O
 :	O
 https://np.reddit.com/r/worldnews/comments/5lf41g/titanic_sank_due_to_enormous_uncontrollable_fire/dbvlteg/?contex=7	O
-
 I	O
 '	O
 m	O
@@ -2869,7 +2689,6 @@ he	O
 s	O
 white	O
 .	O
-
 Hey	O
 u	B-person
 /	I-person
@@ -2882,7 +2701,6 @@ nicked	O
 your	O
 picture	O
 .	O
-
 *	O
 *	O
 submission	O
@@ -2897,7 +2715,6 @@ to	O
 sign	O
 Jese	B-person
 Rodriguez	I-person
-
 The	O
 TLDR	O
 is	O
@@ -2913,7 +2730,6 @@ best	O
 word	O
 definition	O
 is	O
-
 [	O
 From	O
 Barcelona	B-group
@@ -2928,11 +2744,9 @@ Dongou	B-person
 and	O
 Grimaldo	B-person
 .	O
-
 -	O
 Jürgen	B-person
 Klopp	I-person
-
 It	O
 was	O
 n	O
@@ -2947,7 +2761,6 @@ Corporation	I-corporation
 one	O
 yesterday	O
 .	O
-
 Lol	O
 ,	O
 this	O
@@ -2960,7 +2773,6 @@ left	O
 him	O
 a	O
 house	O
-
 *	O
 *	O
 submission	O
@@ -2978,9 +2790,7 @@ for	O
 25	O
 million	O
 €	O
-
 https://www.reddit.com/r/soccer/comments/1u1epb/lewandowski_about_contract_negotiations_with_bvb/NowheisbestpaidplayerinBL	O
-
 Is	O
 it	O
 the	O
@@ -2995,7 +2805,6 @@ post	O
 right	O
 now	O
 ?	O
-
 The	O
 main	O
 problems	O
@@ -3012,7 +2821,6 @@ my	O
 limited	O
 knowledge	O
 .	O
-
 *	O
 *	O
 submission	O
@@ -3034,7 +2842,6 @@ to	O
 normal	O
 songs	O
 ?	O
-
 Well	O
 looks	O
 like	O
@@ -3044,7 +2851,6 @@ has	O
 come	O
 true	O
 .	O
-
 I	O
 do	O
 n	O
@@ -3059,7 +2865,6 @@ the	O
 SPLC	B-group
 though	O
 .	O
-
 [	O
 Ah	O
 ,	O
@@ -3069,7 +2874,6 @@ ol	O
 reddit	B-corporation
 skin-a-roo	O
 !	O
-
 Also	O
 ,	O
 check	O
@@ -3093,7 +2897,6 @@ had	O
 a	O
 fantastic	O
 2016	O
-
 Will	O
 you	O
 criticize	O
@@ -3107,7 +2910,6 @@ will	O
 you	O
 be	O
 silent	O
-
 On	O
 Reddit	B-location
 ,	O
@@ -3129,7 +2931,6 @@ do	O
 regarding	O
 minorities	O
 .	O
-
 It	O
 came	O
 into	O
@@ -3142,11 +2943,9 @@ of	O
 December	O
 2016	O
 .	O
-
 More	O
 at	O
 https://www.flickr.com/photos/100289769@N08/albums/72157675863392604/with/32395769751/	O
-
 EDIT	O
 :	O
 Heh	O
@@ -3161,7 +2960,6 @@ in	O
 5	O
 minutes	O
 .	O
-
 [	O
 I	O
 know	O
@@ -3199,7 +2997,6 @@ it	O
 something	O
 else	O
 .	O
-
 [	O
 Credit	O
 ]	O
@@ -3213,7 +3010,6 @@ u	O
 uncle	O
 _	O
 retardo	O
-
 For	O
 more	O
 info	O
@@ -3233,7 +3029,6 @@ took	O
 this	O
 from	O
 .	O
-
 Edit	O
 :	O
 Because	O
@@ -3255,7 +3050,6 @@ the	O
 entitled	O
 prick	O
 .	O
-
 There	O
 is	O
 [	O
@@ -3271,7 +3065,6 @@ in	O
 the	O
 thread	O
 .	O
-
 Is	O
 doch	O
 eh	O
@@ -3279,13 +3072,10 @@ nur	O
 heiße	O
 Luft	O
 .	O
-
 @	O
 Maronti	B-person
-
 Hi	O
 .	O
-
 FYI	O
 about	O
 a	O
@@ -3302,7 +3092,6 @@ on	O
 protection	O
 orders	O
 :	O
-
 [	O
 Live	O
 Goal	O
@@ -3316,7 +3105,6 @@ HD	O
 (	O
 https://streamable.com/qlwoq	O
 )	O
-
 [	O
 AA	B-group
 Mirror	O
@@ -3328,7 +3116,6 @@ Mixtape	O
 (	O
 https://my.mixtape.moe/ivwbfd.mp4	O
 )	O
-
 one	O
 of	O
 the	O
@@ -3358,7 +3145,6 @@ the	O
 World	O
 Cup	O
 .	O
-
 [	O
 /	O
 r	O
@@ -3381,7 +3167,6 @@ Iceland	B-location
 (	O
 https://www.reddit.com/r/Iceland/	O
 )	O
-
 *	O
 *	O
 submission	O
@@ -3399,7 +3184,6 @@ Qatar	B-location
 World	I-location
 Cup	I-location
 stadium	I-location
-
 [	O
 I	O
 just	O
@@ -3413,7 +3197,6 @@ Hillary	B-person
 (	O
 https://www.reddit.com/r/worldnews/comments/5mimc4/canada_judge_suspended_for_wearing_trump_cap_in/dc4o8v0/?utm_content=permalink&amp;utm_medium=user&amp;utm_source=reddit&amp;utm_name=frontpage	O
 )	O
-
 Also	O
 ,	O
 do	O
@@ -3435,7 +3218,6 @@ Newtown	B-location
 (	O
 https://www.reddit.com/r/sydney/comments/5z1ahm/st_patricks_day_drinks_kellys_on_king_newtown/?st=j098chos&amp;sh=f63980b5	O
 )	O
-
 How	O
 do	O
 you	O
@@ -3452,7 +3234,6 @@ removed	O
 for	O
 editorialising	O
 ?	O
-
 [	O
 Haha	O
 ,	O
@@ -3465,7 +3246,6 @@ it	O
 https://www.reddit.com/r/sports/comments/5m14qm/today_marks_the_10th_anniversary_of_one_of_the/dc0m5ba/	O
 )	O
 .	O
-
 Heh	O
 ,	O
 it	O
@@ -3481,7 +3261,6 @@ well	O
 (	O
 https://np.reddit.com/r/southafrica/comments/5o7yr4/hey_guys_im_trying_to_collect_photos_of_people/	O
 )	O
-
 [	O
 Aah	O
 ,	O
@@ -3493,7 +3272,6 @@ deatharoo	O
 (	O
 https://www.reddit.com/r/newzealand/comments/5m9mam/kia_ora_rbrasil_cultural_exchange_with_rbrasil/dc3dgin/?context=3	O
 )	O
-
 I	O
 could	O
 only	O
@@ -3506,7 +3284,6 @@ the	O
 most	O
 comments	O
 https://www.reddit.com/r/news/comments/4kyylo/white_high_school_football_players_in_idaho/.	O
-
 *	O
 *	O
 redditor	O
@@ -3514,7 +3291,6 @@ redditor	O
 *	O
 :	O
 Thorvirdh	B-person
-
 Searching	O
 .	O
 .	O
@@ -3531,7 +3307,6 @@ argument	O
 in	O
 sight	O
 .	O
-
 See	O
 response	O
 from	O
@@ -3546,7 +3321,6 @@ above	O
 https://www.reddit.com/r/newzealand/comments/5pl7f8/why_do_i_have_to_give_30_days_notice_to_move_isps/dcs13je/	O
 )	O
 .	O
-
 They	O
 charged	O
 him	O
@@ -3568,14 +3342,12 @@ had	O
 to	O
 STFU	O
 .	O
-
 [	O
 Reference	O
 ]	O
 (	O
 https://www.reddit.com/r/soccer/comments/3xcrjc/after_not_passing_rvp_asks_memphis_do_you_think/	O
 )	O
-
 The	O
 OP	O
 here	O
@@ -3587,13 +3359,11 @@ why	O
 )	O
 -	O
 https://www.reddit.com/r/ireland/comments/5nnero/you_will_forever_be_in_my_heart/	O
-
 Obligatory	O
 spruik	O
 for	O
 drinks	O
 Friday	O
-
 [	O
 OP	O
 is	O
@@ -3608,7 +3378,6 @@ sticks	O
 (	O
 https://www.reddit.com/r/ireland/comments/5vtaf1/_/de5j4t5	O
 )	O
-
 Obligatory	O
 link	O
 to	O
@@ -3622,7 +3391,6 @@ https://www.reddit.com/r/sydney/comments/5xl59i/oldies_night_18_march_2017_bavar
 next	O
 week	O
 .	O
-
 They	O
 are	O
 having	O
@@ -3633,7 +3401,6 @@ over	O
 in	O
 News	O
 .	O
-
 I	O
 want	O
 anyteam	O
@@ -3643,7 +3410,6 @@ it	O
 except	O
 PSG	B-group
 .	O
-
 See	O
 also	O
 [	O
@@ -3660,7 +3426,6 @@ ever	O
 secretary	O
 general	O
 ?	O
-
 It	O
 '	O
 s	O
@@ -3676,7 +3441,6 @@ and	O
 its	O
 illegal	O
 .	O
-
 The	O
 media	O
 '	O
@@ -3701,7 +3465,6 @@ much	O
 non-	O
 stop	O
 .	O
-
 That	O
 seems	O
 like	O
@@ -3720,7 +3483,6 @@ https://www.reddit.com/r/unitedkingdom/comments/5k7ndn/the_queen_has_passed_away
 would	O
 know	O
 .	O
-
 This	O
 is	O
 a	O
@@ -3730,7 +3492,6 @@ made	O
 in	O
 December	O
 .	O
-
 It	O
 was	O
 removed	O
@@ -3744,7 +3505,6 @@ as	O
 Off-topic	O
 "	O
 .	O
-
 Hey	O
 ,	O
 whoever	O
@@ -3776,7 +3536,6 @@ the	O
 coming	O
 months	O
 ?	O
-
 [	O
 Worldnews	O
 ]	O
@@ -3784,7 +3543,6 @@ Worldnews	O
 https://www.reddit.com/r/worldnews/search?q=Turkey+Nightclub&amp;restrict_sr=on&amp;sort=relevance&amp;t=all	O
 )	O
 .	O
-
 Hi	O
 there	O
 /	O
@@ -3805,7 +3563,6 @@ here	O
 https://www.reddit.com/r/newzealand/comments/5q10gc/ask_me_anything_act_leader_david_seymour/	O
 )	O
 .	O
-
 AMA	O
 with	O
 the	O
@@ -3815,7 +3572,6 @@ the	O
 Conservative	B-group
 Party	I-group
 .	O
-
 [	O
 Live	O
 in	O
@@ -3825,7 +3581,6 @@ Dalhousie	B-location
 https://www.reddit.com/r/Calgary/comments/5lg5bb/snow_angels/	O
 )	O
 ?	O
-
 I	O
 was	O
 just	O
@@ -3854,7 +3609,6 @@ r	I-location
 /	I-location
 politics	I-location
 :	O
-
 Hey	O
 jackass	O
 ,	O
@@ -3866,14 +3620,12 @@ out	O
 (	O
 https://www.reddit.com/r/news/comments/5nk8h6/exxonmobil_has_lost_a_key_battle_in_an/	O
 )	O
-
 [	O
 Da	O
 nAh	O
 NAH	O
 NAAAHHH	O
 !	O
-
 This	O
 appartently	O
 is	O
@@ -3901,7 +3653,6 @@ fuck	O
 Trump	B-person
 "	O
 .	O
-
 To	O
 their	O
 credit	O
@@ -3914,7 +3665,6 @@ space	O
 in	O
 Yaletown	B-location
 .	O
-
 The	O
 Prem	B-group
 is	O
@@ -3924,7 +3674,6 @@ but	O
 only	O
 slightly	O
 .	O
-
 /	B-group
 r	I-group
 /	I-group
@@ -3939,7 +3688,6 @@ present	O
 ,	O
 IMO	O
 .	O
-
 3	O
 weeks	O
 from	O
@@ -3950,7 +3698,6 @@ recipient	O
 kills	O
 himself	O
 .	O
-
 [	O
 Source	O
 ]	O
@@ -3962,7 +3709,6 @@ at	O
 r	I-location
 /	I-location
 ireland	B-location
-
 Hello	O
 and	O
 welcome	O
@@ -3972,13 +3718,11 @@ r	I-location
 /	I-location
 southafrica	I-location
 !	O
-
 Edit	O
 :	O
 [	O
 Bingo	B-group
 .	O
-
 [	O
 Well	O
 shit	O
@@ -3989,7 +3733,6 @@ wrong	O
 (	O
 https://www.reddit.com/r/soccer/comments/5mlhy7/match_thread_preston_north_end_vs_arsenal/dc4h57s/?context=3	O
 )	O
-
 Here	O
 you	O
 go	O
@@ -3999,7 +3742,6 @@ Source	O
 (	O
 https://www.reddit.com/r/news/comments/5m863w/hate_crime_charges_filed_against_4_in_torture_of/dc1n6t7/	O
 )	O
-
 [	O
 Source	O
 ]	O
@@ -4011,23 +3753,19 @@ at	O
 r	I-location
 /	I-location
 newzealand	I-location
-
 Wow	O
 ,	O
 just	O
 wow	O
 .	O
-
 The	O
 guy	O
 who	O
 ate	O
 Sudocrem	B-product
 :	O
-
 Bingo	O
 .	O
-
 I	O
 like	O
 u	O
@@ -4046,13 +3784,11 @@ a	O
 good	O
 captain	O
 .	O
-
 Chuck	O
 this	O
 a	O
 read	O
 https://www.reddit.com/r/newzealand/wiki/titles	O
-
 They	O
 said	O
 "	O
@@ -4075,7 +3811,6 @@ great	O
 idea	O
 .	O
 "	O
-
 [	O
 Alternative	O
 format	O
@@ -4083,7 +3818,6 @@ format	O
 (	O
 https://www.reddit.com/r/soccer/comments/5n5fg7/oc_an_innovative_format_to_save_the_world_cup_and/	O
 )	O
-
 Thanks	O
 to	O
 u	O
@@ -4095,7 +3829,6 @@ me	O
 of	O
 this	O
 .	O
-
 I	O
 just	O
 wrote	O
@@ -4113,7 +3846,6 @@ statements	O
 [	O
 here	O
 .	O
-
 '	O
 Many	O
 wounded	O
@@ -4122,12 +3854,10 @@ in	O
 Istanbul	B-location
 nightclub	O
 attack	O
-
 Its	O
 inconclusive	O
 IMO	O
 .	O
-
 So	O
 discussion	O
 related	O
@@ -4156,7 +3886,6 @@ r	I-location
 /	I-location
 newzealand	I-location
 .	O
-
 Best	O
 of	O
 all	O
@@ -4195,7 +3924,6 @@ within	O
 six	O
 years	O
 .	O
-
 Possibly	O
 some	O
 Internode	B-corporation
@@ -4209,7 +3937,6 @@ here	O
 https://np.reddit.com/r/australia/comments/5kd1z1/google_dns_did_not_work_for_tpb/	O
 )	O
 ?	O
-
 I	O
 wonder	O
 how	O
@@ -4226,7 +3953,6 @@ work	O
 for	O
 the	B-group
 Clippers	I-group
-
 ITT	O
 :	O
 mutual	O
@@ -4243,7 +3969,6 @@ shitting	O
 on	O
 Giroud	B-person
 .	O
-
 &	O
 gt	O
 ;	O
@@ -4261,7 +3986,6 @@ in	O
 the	O
 headline	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -4269,7 +3993,6 @@ Report	O
 antagonizing	O
 comments	O
 .	O
-
 Just	O
 remember	O
 we	O
@@ -4293,7 +4016,6 @@ Nazis	B-group
 than	O
 Trump	B-person
 .	O
-
 *	O
 *	O
 subreddit	O
@@ -4301,7 +4023,6 @@ subreddit	O
 *	O
 :	O
 Wellington	B-location
-
 Also	O
 ,	O
 a	O
@@ -4324,7 +4045,6 @@ rain	O
 or	O
 shine	O
 !	O
-
 It	O
 '	O
 s	O
@@ -4335,7 +4055,6 @@ Zone	I-creative-work
 of	O
 reddit	O
 .	O
-
 Im	O
 Video	O
 auf	O
@@ -4376,7 +4095,6 @@ mir	O
 die	O
 Worte	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -4385,7 +4103,6 @@ I	O
 voted	O
 Bernie	B-person
 .	O
-
 [	O
 Brit	O
 clouds	O
@@ -4393,7 +4110,6 @@ clouds	O
 (	O
 https://www.reddit.com/r/ireland/comments/61i0nu/ufo_spotted_in_arklow/	O
 )	O
-
 /	O
 r	O
 /	O
@@ -4403,7 +4119,6 @@ Film	O
 /	O
 theatre	O
 teacher	O
-
 This	O
 post	O
 has	O
@@ -4450,7 +4165,6 @@ is	O
 a	O
 saint	O
 .	O
-
 /	O
 r	O
 /	O
@@ -4463,9 +4177,7 @@ bullshit	O
 Hur	O
 dur	O
 "	O
-
 https://ceddit.com/r/worldnews/newNah,you'renotblind.	O
-
 I	O
 was	O
 referencing	O
@@ -4474,11 +4186,9 @@ Famous	O
 Reddit	B-corporation
 Post	O
 https://www.reddit.com/r/ireland/comments/3dpuxy/visiting_your_beautiful_country_this_weekend_want/	O
-
 Jesus	B-person
 christ	I-person
 .	O
-
 Chelsea	B-group
 lost	O
 yesterday	O
@@ -4506,7 +4216,6 @@ soccer	I-location
 (	O
 https://www.reddit.com/r/soccer/	O
 )	O
-
 Ken	B-person
 King	I-person
 said	O
@@ -4530,10 +4239,8 @@ the	O
 new	O
 arena	O
 .	O
-
 LOL	O
 .	O
-
 Writing	O
 a	O
 fake	O
@@ -4561,7 +4268,6 @@ ago	O
 (	O
 https://www.reddit.com/r/soccer/comments/2iz2q9/interviewing_leo_messi/	O
 )	O
-
 *	O
 *	O
 submission	O
@@ -4575,7 +4281,6 @@ for	O
 Turkish	O
 side	O
 Basaksehir	B-group
-
 One	O
 last	O
 reminder	O
@@ -4594,14 +4299,12 @@ to	O
 join	O
 in	O
 .	O
-
 [	O
 Fake	O
 News	O
 ,	O
 eh	O
 ?	O
-
 [	O
 Please	O
 do	O
@@ -4628,11 +4331,9 @@ Fake	O
 News	O
 sites	O
 .	O
-
 [	O
 Okay	O
 .	O
-
 Even	O
 though	O
 I	O
@@ -4660,12 +4361,10 @@ Zetland	B-location
 for	O
 you	O
 .	O
-
 [	O
 Answered	O
 here	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -4684,10 +4383,8 @@ MVP	O
 ,	O
 goddammit	O
 .	O
-
 Geez	O
 .	O
-
 He	O
 '	O
 s	O
@@ -4708,7 +4405,6 @@ a	O
 Dark	B-person
 Knight	I-person
 .	O
-
 err	O
 you	O
 commented	O
@@ -4737,9 +4433,7 @@ doping	O
 allegation	O
 "	O
 .	O
-
 Lel	O
-
 There	O
 '	O
 s	O
@@ -4771,7 +4465,6 @@ home	O
 (	O
 http://www.visitzealandia.com/Portals/0/Feeding%20Birds%20at%20Home.pdf	O
 )	O
-
 It	O
 happens	O
 on	O
@@ -4779,7 +4472,6 @@ United	B-corporation
 related	O
 posts	O
 .	O
-
 Trudeau	B-person
 hanging	O
 out	O
@@ -4789,7 +4481,6 @@ brother	O
 .	O
 .	O
 .	O
-
 [	O
 So	O
 that	O
@@ -4804,7 +4495,6 @@ correct	O
 (	O
 https://www.reddit.com/r/soccer/comments/5r9rs3/sky_sports_just_seem_to_openly_not_give_a_fuck/	O
 )	O
-
 *	O
 *	O
 redditor	O
@@ -4813,7 +4503,6 @@ redditor	O
 :	O
 Jay	B-person
 911	I-person
-
 What	O
 MontansKittenSighs	B-group
 says	O
@@ -4824,11 +4513,9 @@ do	O
 with	O
 me	O
 .	O
-
 [	O
 Oh	O
 .	O
-
 /	B-group
 r	I-group
 /	I-group
@@ -4854,7 +4541,6 @@ to	O
 Trump	B-person
 supporters	O
 .	O
-
 Looking	O
 at	O
 you	O
@@ -4864,7 +4550,6 @@ u	O
 /	O
 TruFalcon	O
 .	O
-
 &	O
 gt	O
 ;	O
@@ -4899,7 +4584,6 @@ their	O
 million	O
 items	O
 ?	O
-
 I	O
 am	O
 not	O
@@ -4932,7 +4616,6 @@ of	O
 his	O
 policies	O
 .	O
-
 Of	O
 course	O
 there	O
@@ -4946,11 +4629,9 @@ not	O
 against	O
 immigration	O
 .	O
-
 Hate	O
 crime	O
 confirmed	O
-
 I	O
 '	O
 m	O
@@ -4968,7 +4649,6 @@ s	O
 still	O
 wrong	O
 .	O
-
 Despite	O
 being	O
 a	O
@@ -4991,7 +4671,6 @@ Off	O
 Topic	O
 .	O
 "	O
-
 [	O
 Source	O
 ]	O
@@ -5003,7 +4682,6 @@ at	O
 r	I-location
 /	I-location
 sydney	I-location
-
 Fantasy	O
 Drama	O
 Movie	O
@@ -5014,7 +4692,6 @@ Looking	O
 for	O
 her	O
 Father	O
-
 How	O
 does	O
 this	O
@@ -5028,7 +4705,6 @@ commentary	O
 at	O
 best	O
 .	O
-
 Path	O
 integral	O
 measure	O
@@ -5041,7 +4717,6 @@ Aspects	B-creative-work
 of	I-creative-work
 symmetry	I-creative-work
 "	O
-
 No	O
 .	O
 It	O
@@ -5070,7 +4745,6 @@ some	O
 known	O
 elevation	O
 .	O
-
 This	O
 is	O
 wrong	O
@@ -5094,7 +4768,6 @@ s	O
 law	O
 then	O
 .	O
-
 Looking	O
 up	O
 touchscreen	O
@@ -5120,7 +4793,6 @@ an	O
 inspiration	O
 .	O
 https://en.wikipedia.org/wiki/Touchscreen#/media/File:Platovterm1981.jpg	O
-
 I	O
 '	O
 m	O
@@ -5160,7 +4832,6 @@ as	O
 Imperial	B-product
 Droids	I-product
 '	O
-
 Religious	O
 persecution	O
 is	O
@@ -5176,7 +4847,6 @@ s	O
 practically	O
 universal	O
 .	O
-
 How	O
 would	O
 you	O
@@ -5186,7 +4856,6 @@ documentary	O
 Transcendent	B-creative-work
 Man	I-creative-work
 ?	O
-
 Which	O
 protocol	O
 should	O
@@ -5200,7 +4869,6 @@ between	O
 two	O
 servers	O
 ?	O
-
 As	O
 you	O
 mention	O
@@ -5282,7 +4950,6 @@ Why	O
 .	O
 .	O
 ?	O
-
 @	O
 notstoreboughtdirt	O
 -	O
@@ -5387,7 +5054,6 @@ industry	O
 is	O
 not	O
 .	O
-
 Just	O
 wanted	O
 add	O
@@ -5414,7 +5080,6 @@ from	O
 Cuba	B-location
 onwards	O
 ?	O
-
 @	O
 SmedleyDSlap	O
 ,	O
@@ -5432,7 +5097,6 @@ not	O
 as	O
 good	O
 .	O
-
 Science	O
 fiction	O
 novel	O
@@ -5458,7 +5122,6 @@ s	O
 dirty	O
 work	O
 )	O
-
 What	O
 exactly	O
 is	O
@@ -5477,7 +5140,6 @@ his	O
 previous	O
 statements	O
 ?	O
-
 @	O
 alexwlchan	O
 -	O
@@ -5496,7 +5158,6 @@ my	O
 answer	O
 below	O
 .	O
-
 I	O
 vote	O
 to	O
@@ -5513,7 +5174,6 @@ a	O
 physics	O
 concept	O
 .	O
-
 But	O
 keep	O
 in	O
@@ -5525,7 +5185,6 @@ his	O
 hatred	O
 for	O
 snowden	B-person
-
 Identify	O
 The	B-creative-work
 Day	I-creative-work
@@ -5534,7 +5193,6 @@ the	I-creative-work
 Doctor	I-creative-work
 old	O
 shots	O
-
 $	O
 SU	O
 (	O
@@ -5548,7 +5206,6 @@ theory	O
 and	O
 particle-antiparticle	O
 annihilation	O
-
 hmmnn	O
 .	O
 .	O
@@ -5616,7 +5273,6 @@ them	O
 the	O
 documents	O
 .	O
-
 how	O
 long	O
 is	O
@@ -5627,7 +5283,6 @@ years	O
 back	O
 "	O
 ?	O
-
 @	O
 pela	O
 Ok	O
@@ -5645,7 +5300,6 @@ it	O
 calls	O
 .	O
 Thanku	O
-
 @	O
 Gallifreyan	O
 Give	O
@@ -5655,7 +5309,6 @@ what	O
 they	O
 want	O
 .	O
-
 When	O
 did	O
 Clay	B-person
@@ -5663,7 +5316,6 @@ become	O
 a	O
 phoner	O
 ?	O
-
 In	O
 the	O
 Travel	O
@@ -5682,7 +5334,6 @@ Tracking	O
 System	O
 ?	O
 "	O
-
 Why	O
 were	O
 Olive	B-person
@@ -5702,7 +5353,6 @@ for	I-creative-work
 Peculiar	I-creative-work
 Children	I-creative-work
 ?	O
-
 This	O
 is	O
 a	O
@@ -5713,7 +5363,6 @@ a	O
 scale	O
 error	O
 .	O
-
 What	O
 explains	O
 the	O
@@ -5730,7 +5379,6 @@ Lee	B-person
 s	O
 daughter	O
 ?	O
-
 Why	O
 is	O
 n	O
@@ -5745,7 +5393,6 @@ open	O
 WiFi	B-product
 developed	O
 ?	O
-
 Old	O
 novel	O
 of	O
@@ -5769,7 +5416,6 @@ try	O
 to	O
 kill	O
 him	O
-
 senate	B-group
 democrats	I-group
 eliminated	O
@@ -5839,7 +5485,6 @@ few	O
 year	O
 back	O
 .	O
-
 It	O
 '	O
 s	O
@@ -5855,7 +5500,6 @@ whole	O
 as	O
 non-canon	O
 .	O
-
 Why	O
 was	O
 porygon	B-person
@@ -5864,7 +5508,6 @@ this	O
 episode	O
 of	O
 Pokémon	B-creative-work
-
 About	O
 role	O
 of	O
@@ -5883,13 +5526,11 @@ house	O
 of	O
 Parliament	B-group
 .	O
-
 Server	O
 key	O
 length	O
 in	O
 OpenSSH	B-product
-
 In	O
 my	O
 judgment	O
@@ -5955,7 +5596,6 @@ moment	O
 it	O
 produces	O
 .	O
-
 And	O
 one	O
 might	O
@@ -5991,7 +5631,6 @@ who	O
 ll	O
 hurt	O
 ?	O
-
 what	O
 do	O
 we	O
@@ -6025,7 +5664,6 @@ of	O
 multiple	O
 Dimensions	B-location
 ?	O
-
 Ok	O
 ,	O
 thanks	O
@@ -6042,7 +5680,6 @@ and	O
 classic	B-product
 galvanometer	I-product
 ?	O
-
 Hi	O
 Garvan	B-person
 and	O
@@ -6094,7 +5731,6 @@ problems	O
 http://meta.physics.stackexchange.com/questions/6093/should-any-check-my-work-questions-be-made-on-topic	O
 )	O
 .	O
-
 Is	O
 it	O
 safe	O
@@ -6104,11 +5740,9 @@ internet	O
 files	O
 over	O
 TOR	B-product
-
 Java	B-product
 Object	I-product
 encryption	I-product
-
 I	O
 '	O
 m	O
@@ -6160,7 +5794,6 @@ by	O
 other	O
 nationalists	O
 .	O
-
 Is	O
 it	O
 OK	O
@@ -6181,7 +5814,6 @@ Amazon	B-product
 S	I-product
 3	I-product
 ?	O
-
 This	O
 is	O
 no	O
@@ -6189,7 +5821,6 @@ joke	O
 my	O
 friend	O
 !	O
-
 the	O
 reason	O
 why	O
@@ -6226,7 +5857,6 @@ to	O
 do	O
 that	O
 .	O
-
 Can	O
 the	O
 president	O
@@ -6239,7 +5869,6 @@ the	O
 Supreme	B-group
 Court	I-group
 ?	O
-
 "	O
 A	O
 rather	O
@@ -6290,7 +5919,6 @@ to	O
 be	O
 interpreted	O
 .	O
-
 But	O
 is	O
 ryll	B-product
@@ -6310,7 +5938,6 @@ then	O
 never	O
 again	O
 .	O
-
 @	O
 Xantec	B-product
 .	O
@@ -6383,7 +6010,6 @@ in	O
 person	O
 )	O
 .	O
-
 Good	O
 ,	O
 I	O
@@ -6397,7 +6023,6 @@ for	O
 the	O
 answer	O
 !	O
-
 Aliens	B-group
 ,	O
 capable	O
@@ -6414,7 +6039,6 @@ are	O
 easy	O
 enough	O
 .	O
-
 How	O
 do	O
 we	O
@@ -6427,7 +6051,6 @@ in	O
 a	O
 decay	O
 ?	O
-
 What	O
 do	O
 you	O
@@ -6456,7 +6079,6 @@ field	O
 )	O
 "	O
 ?	O
-
 Why	O
 do	O
 you	O
@@ -6478,7 +6100,6 @@ not	O
 a	O
 reason	O
 .	O
-
 Hmm	O
 ,	O
 but	O
@@ -6520,7 +6141,6 @@ Partĳ	I-group
 /	O
 Klein	B-group
 ?	O
-
 Why	O
 not	O
 ?	O
@@ -6615,7 +6235,6 @@ the	O
 other	O
 guy	O
 .	O
-
 How	O
 does	O
 the	O
@@ -6636,7 +6255,6 @@ system	O
 with	O
 adiabatic	O
 wall	O
-
 [	O
 This	O
 page	O
@@ -6663,7 +6281,6 @@ older	O
 than	O
 that	O
 .	O
-
 Why	O
 did	O
 n	O
@@ -6681,7 +6298,6 @@ the	O
 T-	B-person
 800	I-person
 ?	O
-
 You	O
 are	O
 right	O
@@ -6719,23 +6335,19 @@ the	O
 first	O
 part	O
 .	O
-
 Image	O
 of	O
 diverging	O
 lens	O
-
 @	O
 Steeven	B-person
 added	O
 a	O
 sketch	O
 .	O
-
 Physical	O
 chemistry	O
 problem	O
-
 This	O
 answer	O
 seems	O
@@ -6775,7 +6387,6 @@ leaving	O
 it	O
 unanswered	O
 .	O
-
 [	O
 The	O
 version	O
@@ -6854,7 +6465,6 @@ article	O
 https://www.hp-lexicon.org/2016/12/29/famous-wizard-cards/	O
 )	O
 .	O
-
 What	O
 is	O
 the	O
@@ -6871,7 +6481,6 @@ source	O
 of	O
 field	O
 ?	O
-
 Can	O
 u	O
 please	O
@@ -6889,7 +6498,6 @@ more	O
 about	O
 this	O
 ?	O
-
 @	O
 Carpetsmoker	B-person
 :	O
@@ -6905,7 +6513,6 @@ in	O
 Western	B-location
 Europe	I-location
 .	O
-
 I	O
 gave	O
 a	O
@@ -6921,7 +6528,6 @@ s	O
 another	O
 :	O
 https://www.merriam-webster.com/dictionary/alias	O
-
 How	O
 to	O
 ensure	O
@@ -6931,7 +6537,6 @@ private	I-product
 key	I-product
 security	I-product
 ?	O
-
 @	O
 Brythan	B-person
 -	O
@@ -6987,7 +6592,6 @@ be	O
 relevant	O
 )	O
 .	O
-
 @	O
 Qmechanic	B-person
 yeah	O
@@ -7011,7 +6615,6 @@ continuum-mechanics	O
 related	O
 questions	O
 .	O
-
 Is	O
 redirecting	O
 in	O
@@ -7023,7 +6626,6 @@ for	O
 sensitive	O
 pages	O
 ?	O
-
 @	O
 CPHPython	B-person
 It	O
@@ -7052,7 +6654,6 @@ have	O
 no	O
 idea	O
 .	O
-
 Difference	O
 between	O
 Executive	O
@@ -7060,7 +6661,6 @@ Orders	O
 and	O
 Presidential	O
 Memoranda	O
-
 Why	O
 was	O
 Thorin	B-person
@@ -7081,12 +6681,10 @@ after	O
 the	O
 Arkenstone	B-product
 ?	O
-
 Possible	O
 anomaly	O
 in	O
 Cryptonomicon	B-product
-
 @	O
 Trilarion	B-person
 Negative	O
@@ -7128,7 +6726,6 @@ enhanced	O
 interrogation	O
 techniques	O
 .	O
-
 I	O
 '	O
 m	O
@@ -7154,7 +6751,6 @@ Law	B-location
 SE	I-location
 ]	O
 .	O
-
 This	O
 is	O
 a	O
@@ -7163,7 +6759,6 @@ explanation	O
 ,	O
 thanks	O
 .	O
-
 Welcome	O
 to	O
 Physics	B-location
@@ -7182,7 +6777,6 @@ may	O
 help	O
 you	O
 .	O
-
 [	O
 Professor	B-person
 Monkey-	I-person
@@ -7212,7 +6806,6 @@ counts	O
 :	O
 -	O
 )	O
-
 But	O
 ,	O
 I	O
@@ -7263,7 +6856,6 @@ of	O
 some	O
 thread	O
 .	O
-
 What	O
 '	O
 s	O
@@ -7280,7 +6872,6 @@ R	I-creative-work
 )	O
 text	O
 ?	O
-
 What	O
 was	O
 funny	O
@@ -7294,7 +6885,6 @@ the	O
 film	O
 Predators	B-creative-work
 ?	O
-
 I	O
 '	O
 m	O
@@ -7320,7 +6910,6 @@ s	O
 wifi	O
 network	O
 .	O
-
 In	O
 the	O
 context	O
@@ -7341,7 +6930,6 @@ reused	O
 or	O
 cached	O
 ?	O
-
 Were	O
 the	O
 Borg	B-group
@@ -7354,7 +6942,6 @@ Delta	B-location
 Quadrant	I-location
 power	O
 ?	O
-
 Amazon	B-product
 Echo	I-product
 /	O
@@ -7362,7 +6949,6 @@ Dot	B-product
 on	O
 your	O
 network	O
-
 Percent	O
 difference	O
 does	O
@@ -7373,7 +6959,6 @@ work	O
 for	O
 my	O
 data	O
-
 Which	O
 public	O
 key	O
@@ -7385,14 +6970,12 @@ choose	O
 to	O
 sign	O
 ?	O
-
 Your	O
 responses	O
 are	O
 much	O
 appreciated	O
 .	O
-
 In	O
 "	O
 The	B-creative-work
@@ -7409,14 +6992,12 @@ rather	O
 than	O
 himself	O
 ?	O
-
 Network	O
 administrator	O
 knowing	O
 all	O
 user	O
 passwords	O
-
 I	O
 recommend	O
 rewording	O
@@ -7454,7 +7035,6 @@ law	O
 .	O
 SE	B-product
 .	O
-
 Are	O
 the	O
 TIE	B-group
@@ -7462,7 +7042,6 @@ Fighter	I-group
 pilots	I-group
 clones	O
 ?	O
-
 Does	O
 energy	O
 of	O
@@ -7475,7 +7054,6 @@ external	O
 magnetic	O
 field	O
 ?	O
-
 The	O
 form	O
 "	O
@@ -7514,7 +7092,6 @@ of	O
 their	O
 circumstance	O
 .	O
-
 Why	O
 is	O
 visa-free	O
@@ -7526,7 +7103,6 @@ deal	O
 in	O
 politics	O
 ?	O
-
 buddy	O
 do	O
 n	O
@@ -7542,7 +7118,6 @@ like	O
 original	O
 trilogy	O
 .	O
-
 Do	O
 countries	O
 frame	O
@@ -7557,7 +7132,6 @@ reference	O
 to	O
 others	O
 ?	O
-
 I	O
 feel	O
 like	O
@@ -7583,7 +7157,6 @@ very	O
 far	O
 for	O
 Snowflake	O
-
 I	O
 think	O
 this	O
@@ -7688,7 +7261,6 @@ is	O
 though	O
 )	O
 .	O
-
 Do	O
 politicians	O
 ever	O
@@ -7699,7 +7271,6 @@ a	O
 bad	O
 decision	O
 ?	O
-
 I	O
 still	O
 think	O
@@ -7727,7 +7298,6 @@ useful	O
 for	O
 you	O
 .	O
-
 Running	O
 a	O
 local	O
@@ -7745,7 +7315,6 @@ is	O
 this	O
 secure	O
 ?	O
-
 What	O
 non-	O
 Star	B-creative-work
@@ -7760,13 +7329,11 @@ the	O
 end	O
 credits	O
 ?	O
-
 Book	O
 narrated	O
 by	O
 the	O
 devil	O
-
 Does	O
 someone	O
 have	O
@@ -7783,7 +7350,6 @@ router	O
 features	O
 "	O
 ?	O
-
 Store	O
 SQL	B-product
 database	O
@@ -7791,7 +7357,6 @@ credentials	O
 in	O
 a	O
 webserver	O
-
 That	O
 '	O
 s	O
@@ -7848,7 +7413,6 @@ P	B-product
 12	I-product
 .	O
 )	O
-
 [	O
 Related	O
 answer	O
@@ -7865,7 +7429,6 @@ word	O
 of	O
 god	O
 .	O
-
 Anything	O
 else	O
 you	O
@@ -7886,7 +7449,6 @@ http://meta.scifi.stackexchange.com/questions/9335/how-to-ask-a-good-story-id-qu
 could	O
 help	O
 .	O
-
 What	O
 did	O
 Tarzan	B-person
@@ -7900,7 +7462,6 @@ a	O
 good	O
 job	O
 ?	O
-
 Why	O
 is	O
 there	O
@@ -7919,7 +7480,6 @@ end	O
 of	O
 movies	O
 ?	O
-
 How	O
 does	O
 the	O
@@ -7933,7 +7493,6 @@ a	O
 budget	O
 authorised	O
 ?	O
-
 When	O
 did	O
 the	O
@@ -7953,7 +7512,6 @@ a	O
 trailer	O
 begin	O
 ?	O
-
 If	O
 at	O
 some	O
@@ -7972,7 +7530,6 @@ actually	O
 be	O
 removed	O
 ?	O
-
 What	O
 security	O
 considerations	O
@@ -7985,7 +7542,6 @@ random	O
 password	O
 generator	O
 ?	O
-
 A	O
 little	O
 update	O
@@ -8006,7 +7562,6 @@ kind	O
 of	O
 advertising	O
 .	O
-
 Comment	O
 deleted	O
 and	O
@@ -8015,7 +7570,6 @@ into	O
 an	O
 answer	O
 .	O
-
 All	O
 right	O
 ,	O
@@ -8044,7 +7598,6 @@ the	O
 one-off	O
 episode	O
 .	O
-
 It	O
 seems	O
 to	O
@@ -8123,7 +7676,6 @@ the	O
 election	O
 .	O
 "	O
-
 Animated	O
 movie	O
 about	O
@@ -8146,11 +7698,9 @@ via	O
 time	O
 travel	O
 )	O
-
 Access	B-product
 Control	I-product
 Primitives	I-product
-
 unfortunately	O
 not	O
 ,	O
@@ -8174,12 +7724,10 @@ hope	O
 I	O
 find	O
 it	O
-
 Duplicate	O
 of	O
 http://physics.stackexchange.com/q/43293/176	O
 ?	O
-
 Why	O
 is	O
 a	O
@@ -8193,7 +7741,6 @@ first	O
 get	O
 in	O
 ?	O
-
 Which	O
 Sci-	O
 Fi	O
@@ -8209,7 +7756,6 @@ by	O
 fingers	O
 "	O
 ?	O
-
 Thanks	O
 .	O
 A	O
@@ -8232,7 +7778,6 @@ the	O
 full-sized	O
 photo	O
 ?	O
-
 Commutation	O
 Relation	O
 between	O
@@ -8242,7 +7787,6 @@ Hamiltonian	O
 and	O
 Helicity	O
 operator	O
-
 What	O
 about	O
 the	O
@@ -8250,7 +7794,6 @@ other	O
 AGRA	B-product
 drives	I-product
 ?	O
-
 Does	O
 that	O
 imply	O
@@ -8267,7 +7810,6 @@ meaningful	O
 to	O
 them	O
 ?	O
-
 Interesting	O
 question	O
 ,	O
@@ -8294,7 +7836,6 @@ this	O
 separate	O
 post	O
 .	O
-
 Why	O
 do	O
 so	O
@@ -8305,7 +7846,6 @@ Digimon	B-product
 wear	O
 gloves	O
 ?	O
-
 Firstly	O
 R	O
 &	O
@@ -8372,7 +7912,6 @@ the	O
 question	O
 wrong	O
 .	O
-
 How	O
 did	O
 my	O
@@ -8382,7 +7921,6 @@ my	O
 Gmail	B-product
 password	O
 ?	O
-
 Ghost	O
 from	O
 their	O
@@ -8393,7 +7931,6 @@ them	O
 in	O
 their	O
 dreams	O
-
 Do	O
 we	O
 know	O
@@ -8437,7 +7974,6 @@ the	B-person
 actual	I-person
 doctor	I-person
 .	O
-
 I	O
 have	O
 worked	O
@@ -8459,7 +7995,6 @@ is	O
 .	O
 .	O
 .	O
-
 @	O
 Paul	B-person
 leave	O
@@ -8485,7 +8020,6 @@ anymore	O
 :	O
 -	O
 D	O
-
 How	O
 to	O
 protect	O
@@ -8496,7 +8030,6 @@ software	O
 from	O
 being	O
 stolen	O
-
 @	O
 poisson	B-person
 I	O
@@ -8583,7 +8116,6 @@ But	O
 .	O
 .	O
 .	O
-
 They	O
 also	O
 used	O
@@ -8620,14 +8152,12 @@ had	O
 broken	O
 it	O
 .	O
-
 Visualizing	O
 the	O
 $	O
 H	O
 $	O
 field	O
-
 How	O
 steady	O
 is	O
@@ -8669,7 +8199,6 @@ de-powered	O
 No	O
 exceptions	O
 !	O
-
 "	O
 *	O
 It	O
@@ -8750,7 +8279,6 @@ man	O
 "	O
 -	O
 Seamus	B-person
-
 Why	O
 is	O
 the	O
@@ -8761,7 +8289,6 @@ such	O
 significant	O
 decline	O
 ?	O
-
 The	O
 spin-orbit	O
 interaction	O
@@ -8775,7 +8302,6 @@ in	O
 an	O
 electric	O
 field	O
-
 Because	O
 light	O
 sabers	O
@@ -8794,7 +8320,6 @@ of	I-creative-work
 Cool	I-creative-work
 .	O
 "	O
-
 What	O
 exactly	O
 did	O
@@ -8809,7 +8334,6 @@ s	O
 executive	O
 order	O
 ?	O
-
 I	O
 '	O
 ve	O
@@ -8834,7 +8358,6 @@ if	O
 you	O
 disagree	O
 .	O
-
 Agreed	O
 .	O
 Nothing	O
@@ -8849,7 +8372,6 @@ prior	O
 similar	O
 event	O
 .	O
-
 We	O
 differ	O
 politically	O
@@ -8864,7 +8386,6 @@ answer	O
 .	O
 +	O
 1	O
-
 Why	O
 do	O
 fusion	O
@@ -8876,7 +8397,6 @@ a	O
 certain	O
 temperature	O
 ?	O
-
 could	O
 you	O
 try	O
@@ -8920,12 +8440,10 @@ root	O
 as	O
 default	O
 behaviour	O
-
 Spooky	O
 behaviour	O
 with	O
 Authy	B-product
-
 Thank	O
 you	O
 for	O
@@ -8961,7 +8479,6 @@ mail	O
 sending	O
 actions	O
 ?	O
-
 Positive	O
 charge	O
 has	O
@@ -8969,7 +8486,6 @@ high	O
 potential	O
 why	O
 ?	O
-
 Why	O
 did	O
 n	O
@@ -8992,7 +8508,6 @@ as	O
 a	O
 Horcrux	O
 ?	O
-
 I	O
 hate	O
 your	O
@@ -9032,7 +8547,6 @@ in	O
 film	O
 "	O
 .	O
-
 @	O
 Snowman	B-person
 "	O
@@ -9048,7 +8562,6 @@ Mostly	O
 Excellent	O
 reference	O
 !	O
-
 Suggestions	O
 on	O
 how	O
@@ -9073,7 +8586,6 @@ confirming	O
 this	O
 ?	O
 ?	O
-
 Where	O
 was	O
 the	O
@@ -9089,7 +8601,6 @@ relative	O
 to	O
 Earth	B-location
 ?	O
-
 Why	O
 is	O
 the	O
@@ -9105,7 +8616,6 @@ conditions	O
 at	O
 surfaces	O
 ?	O
-
 Animated	O
 TV	O
 series	O
@@ -9126,7 +8636,6 @@ by	O
 AI	B-product
 robot	I-product
 scepter	I-product
-
 Is	O
 the	O
 story	O
@@ -9149,7 +8658,6 @@ Fisher	I-person
 s	O
 death	O
 ?	O
-
 What	O
 1980	O
 '	O
@@ -9163,7 +8671,6 @@ learning	O
 magic	O
 spells	O
 ?	O
-
 Why	O
 was	O
 n	O
@@ -9181,7 +8688,6 @@ after	O
 they	O
 died	O
 ?	O
-
 can	O
 a	O
 nation	O
@@ -9199,7 +8705,6 @@ have	O
 its	O
 own	O
 state	O
-
 Hm	O
 ,	O
 pest	O
@@ -9294,7 +8799,6 @@ from	O
 other	O
 people	O
 .	O
-
 What	O
 is	O
 the	O
@@ -9327,7 +8831,6 @@ IoT	B-product
 /	O
 h	O
 ?	O
-
 @	O
 MPS	O
 Yep	O
@@ -9342,7 +8845,6 @@ for	O
 Ubuntu	B-product
 )	O
 .	O
-
 Usually	O
 clouds	O
 move	O
@@ -9364,14 +8866,12 @@ is	O
 not	O
 common	O
 .	O
-
 Do	O
 lekku	B-group
 grow	O
 with	O
 age	O
 ?	O
-
 Is	O
 the	O
 soft	O
@@ -9382,7 +8882,6 @@ a	O
 solenoid	O
 moved	O
 ?	O
-
 <	O
 more	O
 prayers	O
@@ -9431,7 +8930,6 @@ of	O
 atheist	O
 "	O
 .	O
-
 How	O
 did	O
 the	O
@@ -9446,7 +8944,6 @@ catch	O
 the	O
 Joker	B-person
 ?	O
-
 Cartoon	O
 in	O
 which	O
@@ -9460,7 +8957,6 @@ duck	O
 from	O
 committing	O
 suicide	O
-
 Standardized	O
 Data	O
 Formats	O
@@ -9470,7 +8966,6 @@ bandstructure	O
 and	O
 Fermi	O
 surfaces	O
-
 We	O
 do	O
 .	O
@@ -9481,13 +8976,11 @@ how	O
 dams	O
 work	O
 .	O
-
 Is	O
 password	O
 cracking	O
 noisy	O
 ?	O
-
 The	O
 short	O
 answer	O
@@ -9541,7 +9034,6 @@ problems	O
 http://meta.physics.stackexchange.com/q/6093/	O
 )	O
 .	O
-
 If	O
 someone	O
 transfers	O
@@ -9563,7 +9055,6 @@ the	O
 master	B-product
 card	I-product
 back	O
-
 Hmm	O
 ?	O
 Please	O
@@ -9612,7 +9103,6 @@ correct	O
 their	O
 vote	O
 .	O
-
 As	O
 soon	O
 as	O
@@ -9694,7 +9184,6 @@ of	O
 this	O
 community	O
 .	O
-
 @	O
 skooba	B-person
 your	O
@@ -9721,7 +9210,6 @@ for	O
 everyone	O
 else	O
 .	O
-
 What	O
 '	O
 s	O
@@ -9740,7 +9228,6 @@ I	O
 use	O
 .	O
 ?	O
-
 @	O
 theguest	B-person
 It	O
@@ -9760,7 +9247,6 @@ to	O
 be	O
 helpful	O
 .	O
-
 '	O
 ll	O
 certainly	O
@@ -9785,7 +9271,6 @@ make	O
 :	O
 -	O
 P	O
-
 probably	O
 not	O
 the	O
@@ -9793,7 +9278,6 @@ original	O
 reference	O
 :	O
 https://www.thrillist.com/entertainment/nation/arrival-chinese-line-ending	O
-
 If	O
 it	O
 is	O
@@ -9809,7 +9293,6 @@ Mandalorians	B-group
 designed	O
 it	O
 .	O
-
 I	O
 do	O
 n	O
@@ -9830,7 +9313,6 @@ or	O
 cylindrical	O
 ones	O
 .	O
-
 Thanks	O
 a	O
 lot	O
@@ -9853,7 +9335,6 @@ s	I-product
 pentest	I-product
 labs	I-product
 ?	O
-
 Please	O
 provide	O
 as	O
@@ -9877,7 +9358,6 @@ black	O
 &	O
 white	O
 etc	O
-
 On	O
 a	O
 molecular	O
@@ -9894,7 +9374,6 @@ and	O
 a	O
 powder	O
 ?	O
-
 The	B-creative-work
 Matrix	I-creative-work
 :	O
@@ -9912,7 +9391,6 @@ the	O
 real	O
 world	O
 ?	O
-
 and	O
 I	O
 '	O
@@ -9953,7 +9431,6 @@ is	O
 correct	O
 :	O
 )	O
-
 important	O
 addition	O
 —	O
@@ -9976,7 +9453,6 @@ install	O
 fresh	O
 OS	O
 afterwards	O
-
 Distribution	O
 of	O
 keys	O
@@ -9985,7 +9461,6 @@ a	O
 python	O
 messaging	O
 application	O
-
 I	O
 '	O
 ve	O
@@ -10062,7 +9537,6 @@ the	O
 way	O
 through	O
 ]	O
-
 Is	O
 mankind	O
 still	O
@@ -10075,7 +9549,6 @@ of	O
 Oblivion	B-creative-work
 "	O
 ?	O
-
 And	O
 what	O
 is	O
@@ -10095,7 +9568,6 @@ useful	O
 to	O
 anyone	O
 .	O
-
 What	O
 does	O
 the	O
@@ -10106,7 +9578,6 @@ The	B-creative-work
 Sopranos	I-creative-work
 mean	O
 ?	O
-
 @	O
 defalt	O
 I	O
@@ -10133,7 +9604,6 @@ addressed	O
 too	O
 )	O
 .	O
-
 Understood	O
 .	O
 I	O
@@ -10150,7 +9620,6 @@ for	O
 people	O
 .	O
 C	O
-
 How	O
 replaceable	O
 are	O
@@ -10162,7 +9631,6 @@ by	O
 new	O
 administrations	O
 ?	O
-
 Ah	O
 ,	O
 good	O
@@ -10177,7 +9645,6 @@ familiar	O
 ,	O
 too	O
 .	O
-
 Is	O
 it	O
 secure	O
@@ -10192,7 +9659,6 @@ a	O
 third	O
 party	O
 ?	O
-
 Hi	O
 ,	O
 welcome	O
@@ -10232,7 +9698,6 @@ he	O
 actually	O
 saw	O
 ?	O
-
 I	O
 wish	O
 they	O
@@ -10253,7 +9718,6 @@ rationally	O
 .	O
 :	O
 )	O
-
 Is	O
 there	O
 any	O
@@ -10267,7 +9731,6 @@ the	O
 Vulcan	B-group
 heart	O
 ?	O
-
 What	O
 was	O
 the	O
@@ -10280,7 +9743,6 @@ during	O
 the	O
 battle	O
 ?	O
-
 What	O
 does	O
 this	O
@@ -10292,7 +9754,6 @@ committee	O
 rules	O
 "	O
 ?	O
-
 How	O
 much	O
 information	O
@@ -10313,7 +9774,6 @@ in	O
 a	O
 species	O
 ?	O
-
 What	O
 '	O
 s	O
@@ -10330,7 +9790,6 @@ s	O
 monetary	O
 debts	O
 ?	O
-
 How	O
 did	O
 the	O
@@ -10350,7 +9809,6 @@ the	O
 dead	O
 body	O
 ?	O
-
 @	O
 Valorum	B-person
 :	O
@@ -10368,7 +9826,6 @@ memory	O
 erasure	O
 bit	O
 ?	O
-
 Why	O
 do	O
 all	O
@@ -10382,11 +9839,9 @@ with	O
 R	O
 "	O
 ?	O
-
 Buffer	O
 overflow	O
 attack	O
-
 Why	O
 was	O
 Hogwarts	B-location
@@ -10398,7 +9853,6 @@ Harry	B-person
 go	O
 there	O
 ?	O
-
 If	O
 you	O
 do	O
@@ -10428,7 +9882,6 @@ help	O
 you	O
 with	O
 ?	O
-
 Well	O
 this	O
 should	O
@@ -10460,7 +9913,6 @@ the	O
 volume	O
 figure	O
 .	O
-
 The	O
 blue	O
 shifting	O
@@ -10552,7 +10004,6 @@ be	O
 Best	O
 of	O
 luck	O
-
 A	O
 futuristic	O
 book	O
@@ -10565,7 +10016,6 @@ titled	O
 Grandfather	B-creative-work
 Bank	I-creative-work
 "	O
-
 Please	O
 use	O
 mathjax	B-product
@@ -10594,7 +10044,6 @@ reference	I-creative-work
 http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference	O
 )	O
 .	O
-
 You	O
 do	O
 know	O
@@ -10604,7 +10053,6 @@ means	O
 ,	O
 right	O
 ?	O
-
 I	O
 believe	O
 in	O
@@ -10656,7 +10104,6 @@ mess	O
 with	O
 him	O
 .	O
-
 Define	O
 democracy	O
 .	O
@@ -10707,7 +10154,6 @@ in	O
 its	O
 definition	O
 ?	O
-
 Why	O
 is	O
 $	O
@@ -10724,7 +10170,6 @@ an	O
 ideal	O
 gas	O
 ?	O
-
 Great	O
 !	O
 Please	O
@@ -10746,7 +10191,6 @@ that	O
 .	O
 Thanks	O
 .	O
-
 Ca	O
 n	O
 '	O
@@ -10761,7 +10205,6 @@ server	I-product
 .	O
 Pentesting	O
 exercise	O
-
 The	B-creative-work
 affair	I-creative-work
 Season	I-creative-work
@@ -10773,7 +10216,6 @@ half	I-creative-work
 -	O
 French	O
 translation	O
-
 E	O
 @	O
 user	O
@@ -10839,7 +10281,6 @@ is	O
 fairly	O
 bewildering	O
 .	O
-
 Could	O
 a	O
 President	O
@@ -10854,7 +10295,6 @@ by	O
 the	O
 senate	O
 ?	O
-
 dmckee	B-person
 ,	O
 I	O
@@ -10880,7 +10320,6 @@ mentioned	O
 makes	O
 sense	O
 .	O
-
 In	O
 the	O
 RotS	B-creative-work
@@ -10908,7 +10347,6 @@ just	O
 shot	O
 them	O
 .	O
-
 Turkish	B-group
 military	I-group
 presence	O
@@ -10916,12 +10354,10 @@ in	O
 other	O
 countries	O
 soil	O
-
 Avoided	O
 Crossing	O
 in	O
 QM	O
-
 I	O
 am	O
 unable	O
@@ -10937,7 +10373,6 @@ in	O
 SQL	B-product
 injection	O
 payload	O
-
 Why	O
 do	O
 n	O
@@ -10949,7 +10384,6 @@ more	O
 fruit	O
 trees	O
 ?	O
-
 Help	O
 identify	O
 a	O
@@ -10957,7 +10391,6 @@ collection	O
 of	O
 short	O
 stories	O
-
 @	O
 Bebs	B-person
 That	O
@@ -10966,7 +10399,6 @@ s	O
 possible	O
 too	O
 .	O
-
 Why	O
 is	O
 imposing	O
@@ -10978,14 +10410,12 @@ hard	O
 to	O
 achieve	O
 ?	O
-
 Few	O
 Questions	O
 About	O
 Tor	B-product
 Hidden	I-product
 Services	I-product
-
 It	O
 cannot	O
 be	O
@@ -11003,7 +10433,6 @@ would	O
 have	O
 made	O
 sense	O
-
 @	O
 cde	O
 should	O
@@ -11016,7 +10445,6 @@ downvote	O
 ,	O
 here	O
 http://meta.movies.stackexchange.com/questions/2666/are-spoilers-a-reason-to-get-downvotes	O
-
 So	O
 ,	O
 this	O
@@ -11047,7 +10475,6 @@ it	O
 was	O
 from	O
 ?	O
-
 Looking	O
 for	O
 a	O
@@ -11064,7 +10491,6 @@ by	O
 two	O
 brothers	O
 ?	O
-
 my	O
 concern	O
 is	O
@@ -11089,12 +10515,10 @@ and	O
 the	O
 details	O
 again	O
-
 Please	O
 keep	O
 it	O
 classy	O
-
 I	O
 '	O
 m	O
@@ -11114,7 +10538,6 @@ for	O
 worldbuilding	O
 .	O
 se	O
-
 is	O
 it	O
 because	O
@@ -11143,7 +10566,6 @@ drop	O
 in	O
 tube	O
 .	O
-
 Who	O
 is	O
 driving	O
@@ -11158,7 +10580,6 @@ on	O
 the	B-creative-work
 Expanse	I-creative-work
 ?	O
-
 I	O
 '	O
 m	O
@@ -11190,7 +10611,6 @@ will	O
 go	O
 away	O
 .	O
-
 What	O
 is	O
 the	O
@@ -11210,7 +10630,6 @@ applied	O
 is	O
 equal	O
 ?	O
-
 Can	O
 the	O
 vice	O
@@ -11218,7 +10637,6 @@ president	O
 be	O
 fired	O
 ?	O
-
 @	O
 phoog	B-person
 Parliament	B-group
@@ -11275,7 +10693,6 @@ in	O
 any	O
 way	O
 .	O
-
 What	O
 are	O
 the	O
@@ -11287,7 +10704,6 @@ crowd	O
 size	O
 estimations	O
 ?	O
-
 "	O
 Large	O
 "	O
@@ -11308,7 +10724,6 @@ looking	O
 for	O
 classical	O
 analog	O
-
 Why	O
 did	O
 n	O
@@ -11319,7 +10734,6 @@ Beast	B-person
 kill	O
 Julia	B-person
 ?	O
-
 How	O
 to	O
 derive	O
@@ -11331,7 +10745,6 @@ of	O
 Born-	O
 Infeld	O
 ?	O
-
 What	O
 are	O
 the	O
@@ -11348,7 +10761,6 @@ one	O
 round	O
 alternative	O
 ?	O
-
 Asymmetry	O
 definitions	O
 electric	O
@@ -11367,7 +10779,6 @@ chi	O
 _	O
 m	O
 $	O
-
 How	O
 many	O
 people	O
@@ -11379,7 +10790,6 @@ watching	O
 Zaphod	B-person
 Beeblebrox	I-person
 ?	O
-
 Does	O
 the	O
 "	O
@@ -11399,7 +10809,6 @@ Her	B-creative-work
 2013	O
 )	O
 ?	O
-
 I	O
 think	O
 that	O
@@ -11466,7 +10875,6 @@ finds	O
 way	O
 out	O
 .	O
-
 How	O
 did	O
 Mon-	B-person
@@ -11474,7 +10882,6 @@ El	I-person
 know	O
 English	O
 ?	O
-
 Is	O
 n	O
 '	O
@@ -11516,13 +10923,11 @@ s	O
 off	O
 topic	O
 ?	O
-
 Who	O
 legislates	O
 military	O
 law	O
 ?	O
-
 What	O
 was	O
 the	O
@@ -11532,7 +10937,6 @@ built	O
 in	O
 Middle-earth	B-location
 ?	O
-
 There	O
 you	O
 go	O
@@ -11542,7 +10946,6 @@ in	O
 the	O
 OP	O
 .	O
-
 @	O
 Demi	B-person
 :	O
@@ -11556,7 +10959,6 @@ was	O
 needing	O
 python	B-product
 .	O
-
 I	O
 used	O
 it	O
@@ -11575,7 +10977,6 @@ problems	O
 .	O
 .	O
 .	O
-
 @	O
 Gordon	B-person
 Not	O
@@ -11595,7 +10996,6 @@ with	O
 the	O
 Higgs	O
 .	O
-
 An	O
 old	O
 TV	O
@@ -11610,7 +11010,6 @@ his	O
 cadillac	B-product
 solving	O
 problems	O
-
 Not	O
 sure	O
 about	O
@@ -11693,13 +11092,11 @@ of	O
 the	O
 matter	O
 .	O
-
 SSO	B-product
 against	O
 many	O
 identity	O
 providers	O
-
 during	O
 ssh	O
 handshaking	O
@@ -11716,13 +11113,11 @@ change	O
 self	O
 presentation	O
 ?	O
-
 Are	O
 there	O
 other	O
 Mjölnirs	B-product
 ?	O
-
 In	O
 order	O
 to	O
@@ -11828,7 +11223,6 @@ the	O
 case	O
 )	O
 .	O
-
 Why	O
 did	O
 Clinton	B-person
@@ -11840,7 +11234,6 @@ for	O
 an	O
 Award	O
 ?	O
-
 Would	O
 the	O
 downvoter	O
@@ -11848,7 +11241,6 @@ care	O
 to	O
 comment	O
 ?	O
-
 Is	O
 Trump	B-person
 tweeting	O
@@ -11856,7 +11248,6 @@ himself	O
 on	O
 realDonaldTrump	B-person
 ?	O
-
 @	O
 DonatelloSwansino	B-person
 That	O
@@ -11872,7 +11263,6 @@ it	O
 as	O
 an	O
 answer	O
-
 Tango	O
 -	O
 In	O
@@ -11933,7 +11323,6 @@ I	O
 may	O
 own	O
 .	O
-
 What	O
 encryption	O
 type	O
@@ -11950,7 +11339,6 @@ Windows	B-product
 latest	O
 build	O
 ?	O
-
 Despite	O
 never	O
 having	O
@@ -11977,7 +11365,6 @@ from	O
 the	O
 secondary	O
 characters	O
-
 Are	O
 the	O
 Martians	B-group
@@ -11990,7 +11377,6 @@ or	O
 Ack	O
 "	O
 ?	O
-
 I	O
 actually	O
 think	O
@@ -12044,7 +11430,6 @@ how	O
 it	O
 works	O
 .	O
-
 In	O
 the	O
 article	O
@@ -12103,7 +11488,6 @@ such	O
 an	O
 assumption	O
 .	O
-
 How	O
 much	O
 official	O
@@ -12118,7 +11502,6 @@ the	O
 Jedi	B-group
 Council	I-group
 ?	O
-
 What	O
 old	O
 teen	O
@@ -12126,7 +11509,6 @@ movie	O
 is	O
 this	O
 ?	O
-
 Black	B-creative-work
 Swan	I-creative-work
 is	O
@@ -12143,7 +11525,6 @@ elements	O
 -	O
 yes	O
 .	O
-
 Are	O
 we	O
 currently	O
@@ -12160,7 +11541,6 @@ unstable	O
 political	O
 climate	O
 ?	O
-
 Are	O
 the	O
 Legality	O
@@ -12177,7 +11557,6 @@ Have	O
 Been	O
 Cast	O
 ?	O
-
 I	O
 Periodically	O
 shave	O
@@ -12223,7 +11602,6 @@ one	O
 )	O
 daily	O
 .	O
-
 Good	O
 idea	O
 ,	O
@@ -12329,7 +11707,6 @@ processes	O
 or	O
 reboot	O
 .	O
-
 Does	O
 using	O
 Oauth	B-product
@@ -12340,7 +11717,6 @@ closed	O
 ports	O
 requires	O
 proxy	O
-
 How	O
 can	O
 a	O
@@ -12359,7 +11735,6 @@ of	O
 World	B-group
 Bank	I-group
 ?	O
-
 Javier	B-person
 .	O
 .	O
@@ -12381,7 +11756,6 @@ makes	O
 sense	O
 !	O
 oo	O
-
 What	O
 building	O
 in	O
@@ -12395,7 +11769,6 @@ Creed	I-creative-work
 (	O
 spoiler	O
 )	O
-
 Probably	O
 its	O
 the	O
@@ -12414,7 +11787,6 @@ in	O
 the	O
 world	O
 .	O
-
 @	O
 CandiedOrange	O
 I	O
@@ -12486,7 +11858,6 @@ Malthusianism	O
 checks	O
 out	O
 .	O
-
 Difference	O
 between	O
 "	O
@@ -12504,7 +11875,6 @@ CP	O
 -	O
 violation	O
 "	O
-
 Comments	O
 are	O
 not	O
@@ -12525,7 +11895,6 @@ chat	O
 http://chat.stackexchange.com/rooms/52466/discussion-on-question-by-ankit-why-is-christian-bale-not-in-the-upcoming-movie	O
 )	O
 .	O
-
 short	O
 story	O
 about	O
@@ -12534,7 +11903,6 @@ a	O
 planet	B-location
 with	O
 humans	O
-
 What	O
 is	O
 the	O
@@ -12546,7 +11914,6 @@ and	O
 Dynamic	O
 simulation	O
 ?	O
-
 How	O
 does	O
 one	O
@@ -12554,7 +11921,6 @@ leave	O
 a	O
 pensieve	O
 ?	O
-
 Many	O
 actors	O
 or	O
@@ -12584,7 +11950,6 @@ did	O
 it	O
 themselves	O
 .	O
-
 @	O
 XiongChiamiov	B-person
 While	O
@@ -12614,7 +11979,6 @@ produce	O
 predictable	O
 output	O
 .	O
-
 What	O
 is	O
 the	O
@@ -12631,7 +11995,6 @@ Next	I-creative-work
 Three	I-creative-work
 Days	I-creative-work
 ?	O
-
 Higgs	O
 boson	O
 and	O
@@ -12641,7 +12004,6 @@ boson	O
 transformations	O
 under	O
 CP	O
-
 Relative	O
 world	O
 carbon	O
@@ -12649,7 +12011,6 @@ footprints	O
 by	O
 nation	O
 ?	O
-
 After	O
 seeing	O
 this	O
@@ -12741,7 +12102,6 @@ xi	O
 n	O
 $	O
 .	O
-
 What	O
 is	O
 the	O
@@ -12754,7 +12114,6 @@ Yautja	I-person
 in	O
 Predators	B-creative-work
 ?	O
-
 What	O
 Star	B-creative-work
 Trek	I-creative-work
@@ -12769,7 +12128,6 @@ appearing	O
 in	O
 Discovery	B-creative-work
 ?	O
-
 There	O
 '	O
 s	O
@@ -12836,7 +12194,6 @@ to	O
 political	O
 suicide	O
 .	O
-
 Nopes	O
 ,	O
 full	O
@@ -12851,14 +12208,12 @@ think	O
 3	O
 parts	O
 .	O
-
 magnetic	O
 potential	O
 vs	O
 .	O
 solid	O
 angle	O
-
 Why	O
 is	O
 it	O
@@ -12874,7 +12229,6 @@ a	O
 stream	O
 cipher	O
 ?	O
-
 Identify	O
 this	O
 post	O
@@ -12885,7 +12239,6 @@ rival	B-group
 cannibal	I-group
 car	I-group
 gangs	I-group
-
 Are	O
 Hogwarts	B-location
 students	O
@@ -12896,7 +12249,6 @@ to	O
 other	B-group
 houses	I-group
 ?	O
-
 You	O
 can	O
 add	O
@@ -12904,7 +12256,6 @@ torsion	O
 if	O
 you	O
 want	O
-
 I	O
 think	O
 $	O
@@ -12931,7 +12282,6 @@ in	O
 this	O
 case	O
 .	O
-
 ID	O
 movie	O
 :	O
@@ -12942,7 +12292,6 @@ bullied	O
 into	O
 a	O
 coma	O
-
 Oh	O
 my	O
 god	O
@@ -13003,7 +12352,6 @@ that	O
 conclusion	O
 from	O
 .	O
-
 Does	O
 Rogue	B-creative-work
 One	I-creative-work
@@ -13020,7 +12368,6 @@ re	O
 Hyperspace	O
 Radio	O
 ?	O
-
 Books	O
 are	O
 never	O
@@ -13077,7 +12424,6 @@ to	O
 vindicate	O
 someone	O
 .	O
-
 @	O
 itpastorn	O
 yes	O
@@ -13126,7 +12472,6 @@ hear	O
 about	O
 them	O
 .	O
-
 @	O
 Wildcard	O
 if	O
@@ -13176,7 +12521,6 @@ a	O
 internet	O
 blog	O
 .	O
-
 Schroeder	B-person
 '	O
 s	O
@@ -13188,20 +12532,17 @@ Concerns	O
 about	O
 Wick	O
 Rotations	O
-
 @	O
 Gallifreyan	O
 ,	O
 good	O
 question	O
 .	O
-
 Similar	O
 to	O
 http://security.stackexchange.com/questions/4369/why-is-https-not-the-default-protocolalsocompare	O
 http://webmasters.stackexchange.com/questions/1823/https-for-entire-sitevs	O
 http://webmasters.stackexchange.com/questions/3148/does-ssl-really-matter-for-most-websites	O
-
 @	O
 Krumia	O
 :	O
@@ -13253,7 +12594,6 @@ from	O
 no	O
 light	O
 .	O
-
 Short	O
 story	O
 published	O
@@ -13266,13 +12606,11 @@ the	O
 90	O
 '	O
 s	O
-
 Alternatives	O
 to	O
 bruteforce	O
 KeePass	B-product
 Cracker	I-product
-
 @	O
 Panda	O
 Thanks	O
@@ -13312,14 +12650,12 @@ it	O
 as	O
 well	O
 .	O
-
 Need	O
 some	O
 help	O
 understanding	O
 Peltier	O
 Plates	O
-
 Your	O
 name	O
 suggests	O
@@ -13370,7 +12706,6 @@ make	O
 sense	O
 of	O
 .	O
-
 Jedi	B-group
 ca	O
 n	O
@@ -13387,7 +12722,6 @@ the	O
 Dark	B-group
 Side	I-group
 .	O
-
 @	O
 jpmc	O
 26	O
@@ -13478,7 +12812,6 @@ a	O
 weather	O
 eye	O
 .	O
-
 Gedankenexperiment	O
 in	O
 thermodynamics	O
@@ -13487,7 +12820,6 @@ what	O
 is	O
 wrong	O
 ?	O
-
 @	O
 Lakebum	O
 Please	O
@@ -13499,7 +12831,6 @@ the	O
 correct	O
 one	O
 .	O
-
 This	O
 is	O
 a	O
@@ -13589,7 +12920,6 @@ was	O
 intentionally	O
 antisemitic	O
 .	O
-
 TV	O
 series	O
 where	O
@@ -13608,7 +12938,6 @@ an	O
 angel	O
 statue	O
 cries	O
-
 Would	O
 love	O
 to	O
@@ -13627,12 +12956,10 @@ inclusion	O
 of	O
 those	O
 pictures	O
-
 Interpretation	O
 of	O
 Dynkin	O
 diagrams	O
-
 Doctor	B-creative-work
 Who	I-creative-work
 -	O
@@ -13648,7 +12975,6 @@ out	O
 (	O
 Spoilers	O
 )	O
-
 This	O
 answer	O
 describes	O
@@ -13691,7 +13017,6 @@ at	O
 this	O
 point	O
 .	O
-
 So	O
 the	O
 density	O
@@ -13702,7 +13027,6 @@ naturally	O
 be	O
 less	O
 .	O
-
 If	O
 I	O
 registered	O
@@ -13726,7 +13050,6 @@ proceeding	O
 special	O
 elections	O
 ?	O
-
 Bernoulli	B-person
 '	O
 s	O
@@ -13747,7 +13070,6 @@ the	O
 pressure	O
 increase	O
 ?	O
-
 Might	O
 want	O
 to	O
@@ -13788,7 +13110,6 @@ hidden	O
 creatures	O
 "	O
 .	O
-
 Did	O
 George	B-person
 Smiley	I-person
@@ -13805,7 +13126,6 @@ was	O
 a	O
 mole	O
 ?	O
-
 How	O
 can	O
 the	O
@@ -13818,7 +13138,6 @@ Data	I-creative-work
 Protection	I-creative-work
 Regulation	I-creative-work
 ?	O
-
 _	O
 "	O
 a	O
@@ -13898,7 +13217,6 @@ quotes	O
 are	O
 contradictory	O
 .	O
-
 Apparently	O
 Wikipedia	B-creative-work
 claims	O
@@ -13957,7 +13275,6 @@ Fermi	O
 surface	O
 .	O
 "	O
-
 Some	O
 whatabout	O
 is	O
@@ -13997,7 +13314,6 @@ of	O
 whataboutism	O
 "	O
 .	O
-
 I	O
 ca	O
 n	O
@@ -14007,7 +13323,6 @@ see	O
 any	O
 faces	O
 .	O
-
 Why	O
 were	O
 the	O
@@ -14019,7 +13334,6 @@ of	O
 the	O
 Federation	B-group
 ?	O
-
 See	O
 ,	O
 that	O
@@ -14117,7 +13431,6 @@ SSL	O
 /	O
 TLS	O
 .	O
-
 The	O
 22	B-creative-work
 nd	I-creative-work
@@ -14131,7 +13444,6 @@ not	O
 a	O
 law	O
 .	O
-
 I	O
 have	O
 ,	O
@@ -14148,7 +13460,6 @@ neg	O
 votes	O
 so	O
 far	O
-
 What	O
 is	O
 the	O
@@ -14161,7 +13472,6 @@ and	O
 parallel	O
 transport	O
 ?	O
-
 it	O
 would	O
 be	O
@@ -14213,7 +13523,6 @@ would	O
 be	O
 helpful	O
 .	O
-
 Frequency	O
 of	O
 photon	O
@@ -14222,7 +13531,6 @@ frequency	O
 of	O
 EM	O
 wave	O
-
 Potential	O
 HTTP	O
 Host	O
@@ -14247,7 +13555,6 @@ I	O
 be	O
 concerned	O
 ?	O
-
 Was	O
 this	O
 a	O
@@ -14290,7 +13597,6 @@ geniuses	O
 http://marvel.wikia.com/wiki/Category:Genius_Intelligence	O
 )	O
 .	O
-
 Greens	O
 function	O
 application	O
@@ -14300,7 +13606,6 @@ QFT	O
 in	O
 Statistial	O
 Physics	O
-
 did	O
 the	O
 5	O
@@ -14313,7 +13618,6 @@ work	O
 for	O
 you	O
 ?	O
-
 @	O
 SQB	O
 I	O
@@ -14374,7 +13678,6 @@ time	O
 .	O
 maybe	O
 .	O
-
 Who	O
 ’	O
 s	O
@@ -14385,7 +13688,6 @@ the	O
 Powerless	B-creative-work
 trailer	O
 ?	O
-
 Why	O
 did	O
 n	O
@@ -14404,7 +13706,6 @@ dead	O
 Hogwarts	B-location
 Headmasters	O
 ?	O
-
 How	O
 long	O
 untill	O
@@ -14413,7 +13714,6 @@ is	O
 played	O
 properly	O
 ?	O
-
 Being	O
 insulting	O
 and	O
@@ -14475,7 +13775,6 @@ agree	O
 with	O
 it	O
 .	O
-
 What	O
 is	O
 the	O
@@ -14483,7 +13782,6 @@ significance	O
 of	O
 buttocks	O
 ?	O
-
 You	O
 get	O
 what	O
@@ -14506,7 +13804,6 @@ challenge	O
 #	O
 smallbiz	O
 https://t.co/B1AxZpTxpB	O
-
 RT	O
 @	O
 baabyylex	O
@@ -14535,7 +13832,6 @@ adoption	O
 that	O
 d	O
 …	O
-
 EP	O
 8	O
 :	O
@@ -14558,7 +13854,6 @@ th	O
 grade	O
 "	O
 https://t.co/nSEqjAl4O8	O
-
 RT	O
 @	O
 soyourelikethat	O
@@ -14575,7 +13870,6 @@ waste	O
 the	O
 damn	O
 time	O
-
 Localizing	O
 Yakuza	B-creative-work
 0	I-creative-work
@@ -14587,7 +13881,6 @@ and	O
 authenticity	O
 :	O
 https://t.co/S5pUlpNwT3	O
-
 There	O
 is	O
 pleasure	O
@@ -14597,7 +13890,6 @@ pathless	O
 woods	B-location
 #	O
 Kalupey	B-person
-
 #	O
 sex	O
 slave	O
@@ -14607,7 +13899,6 @@ uses	O
 urinal	O
 porn	O
 https://t.co/hroXOjtyem	O
-
 RT	O
 @	O
 omsblvr	O
@@ -14619,7 +13910,6 @@ a	O
 heart	O
 .	O
 https://t.co/l3Hk7pWE5g	O
-
 @	O
 skipsy	O
 _	O
@@ -14662,7 +13952,6 @@ Hit	O
 that	O
 quota	O
 !	O
-
 Waitlist	O
 #	O
 3	O
@@ -14681,7 +13970,6 @@ key	O
 not	O
 even	O
 mad	O
-
 '	O
 '	O
 Ladies	O
@@ -14702,7 +13990,6 @@ In	O
 The	O
 World	O
 https://t.co/6JYh3Id7BW	O
-
 RT	O
 @	O
 heyimbee	O
@@ -14712,7 +13999,6 @@ StrauberryJam	O
 SHE	O
 IS	O
 DEAD	O
-
 RT	O
 @	O
 _	O
@@ -14724,11 +14010,8 @@ just	O
 need	O
 my	O
 diploma	O
-
 https://t.co/59y6vduVlw	O
-
 https://t.co/LLXf24DHsh	O
-
 Mom	O
 still	O
 defending	O
@@ -14743,7 +14026,6 @@ wonders	O
 on	O
 November	O
 .	O
-
 Children	B-corporation
 '	I-corporation
 s	I-corporation
@@ -14762,7 +14044,6 @@ BIRMINGHAM	B-location
 Apply	O
 today	O
 https://t.co/wKWqB2ix2I	O
-
 RT	O
 @	O
 iCleverOfficial	O
@@ -14793,7 +14074,6 @@ iClever	B-corporation
 products	O
 !	O
 …	O
-
 #	O
 adult	O
 learning	O
@@ -14802,7 +14082,6 @@ china	B-location
 teen	O
 xxx	O
 https://t.co/jnPqolZgSP	O
-
 Celebrate	O
 Burns	B-person
 Night	O
@@ -14820,7 +14099,6 @@ cocktails	O
 homebartender	O
 #	O
 cocktailsathome	O
-
 RT	O
 @	O
 cIits	O
@@ -14831,7 +14109,6 @@ frustrated	O
 is	O
 the	O
 worst	O
-
 RT	O
 @	O
 CreepBJ	O
@@ -14853,13 +14130,11 @@ SexyCreeps	O
 @	O
 CreepShotsLive	O
 https://t.co/0TwauVET…	O
-
 Just	O
 posted	O
 a	O
 photo	O
 https://t.co/mi0kwHp0vl	O
-
 Legal	O
 Assistant	O
 Location	O
@@ -14867,7 +14142,6 @@ Location	O
 Los	B-location
 Angeles	I-location
 https://t.co/kRAqm0LiK7	O
-
 OMB	B-location
 nominee	O
 Mick	B-person
@@ -14883,9 +14157,7 @@ https://t.co/4NdBdMXSC3	O
 via	O
 @	O
 WSJ	O
-
 https://t.co/3CqQHLw4J7	O
-
 Show	O
 HN	O
 :	O
@@ -14900,7 +14172,6 @@ incanted	O
 in	O
 Umple	O
 .	O
-
 RT	O
 @	O
 Gwynstone	O
@@ -14926,11 +14197,9 @@ cart	O
 and	O
 t	O
 https://t.co/OBIGoOpwkI	O
-
 to	O
 com	O
 fome	O
-
 If	O
 KITT	B-person
 has	O
@@ -14961,7 +14230,6 @@ the	O
 .	O
 .	O
 https://t.co/64EX6ktzAa	O
-
 RT	O
 @	O
 bwecht	O
@@ -15005,7 +14273,6 @@ a	O
 baby	O
 cr	O
 …	O
-
 @	O
 Ubermatik	O
 Anti	O
@@ -15018,7 +14285,6 @@ I	O
 can	O
 dig	O
 👌	O
-
 RT	O
 @	O
 jellombooty	B-person
@@ -15031,7 +14297,6 @@ beyond	O
 happy	O
 right	O
 now	O
-
 RT	O
 @	O
 CarolSankar	B-person
@@ -15058,7 +14323,6 @@ https://t.co/MfkU0QLHs0	O
 .	O
 @	O
 girlsrockclt	O
-
 Be	O
 someone	O
 who	O
@@ -15084,7 +14348,6 @@ rd	O
 fell	O
 through	O
 .	O
-
 @	O
 MizaninMagic	O
 Since	O
@@ -15095,7 +14358,6 @@ t	O
 looking	O
 .	O
 😊	O
-
 Don	O
 '	O
 t	O
@@ -15108,7 +14370,6 @@ packaging	O
 #	O
 tea	O
 https://t.co/s5cD7cFXF2	O
-
 @	O
 rcava	O
 only	O
@@ -15126,7 +14387,6 @@ spending	O
 on	O
 bullpen	O
 .	O
-
 LRT	O
 why	O
 is	O
@@ -15141,7 +14401,6 @@ Roen	B-product
 belt	I-product
 ?	O
 https://t.co/mUsYf1AVR3	O
-
 RT	O
 @	O
 itslifethought	O
@@ -15176,7 +14435,6 @@ die	O
 ,	O
 live	O
 .	O
-
 How	O
 to	O
 use	O
@@ -15192,7 +14450,6 @@ agents	O
 realtor	O
 news	O
 https://t.co/jbVvY8zOed	O
-
 Daily	B-creative-work
 Audio	I-creative-work
 Bible	I-creative-work
@@ -15206,7 +14463,6 @@ live	O
 here	O
 :	O
 https://t.co/JvWxU2IgAy	O
-
 @	O
 Calfreezy	O
 how	O
@@ -15221,7 +14477,6 @@ are	O
 in	O
 real	O
 life	O
-
 Devonport	B-location
 :	O
 -	O
@@ -15260,7 +14515,6 @@ today	O
 mm	O
 |	O
 https://t.co/L8Xwxd2izS	O
-
 @	O
 FANGIRLOVERLOAD	O
 but	O
@@ -15296,7 +14550,6 @@ a	O
 sweetheart	O
 😊	O
 💕	O
-
 Kelli	B-creative-work
 '	I-creative-work
 s	I-creative-work
@@ -15314,7 +14567,6 @@ Equipment	I-creative-work
 #	O
 fitnessblender	B-corporation
 https://t.co/df66JQrqeM	O
-
 28	O
 #	O
 InformationSecurity	O
@@ -15330,7 +14582,6 @@ About	O
 Please	O
 Retweet	O
 https://t.co/BCPt9V63op	O
-
 This	O
 kids	O
 will	O
@@ -15341,7 +14592,6 @@ erupting	O
 volcano	O
 https://t.co/AThemYUuUf	O
 https://t.co/g3PR3PC0Ea	O
-
 RT	O
 @	O
 glofuI	O
@@ -15360,7 +14610,6 @@ by	O
 losing	O
 you	O
 .	O
-
 @	O
 AlicesdrThe	O
 @	O
@@ -15380,7 +14629,6 @@ fzr	O
 pra	O
 vc	O
 entrar	O
-
 RT	O
 @	O
 angryblackhoemo	B-person
@@ -15413,7 +14661,6 @@ among	O
 Black	O
 Gay	O
 …	O
-
 RT	O
 @	O
 BeautyOfAnAries	O
@@ -15430,7 +14677,6 @@ along	O
 .	O
 🙏	O
 https://t.co/5mKW2mdAsO	O
-
 #	O
 iTECH	O
 2	O
@@ -15452,7 +14698,6 @@ AI	O
 .	O
 .	O
 https://t.co/AUQRSUZqy6	O
-
 RT	O
 @	O
 MissMcCleary	B-person
@@ -15487,7 +14732,6 @@ off	O
 all	O
 o	O
 …	O
-
 #	O
 corvette	B-product
 #	O
@@ -15510,7 +14754,6 @@ New	O
 Navigation	O
 …	O
 https://t.co/K9TZaaLa7k	O
-
 RT	O
 @	O
 NicholasPegg	B-person
@@ -15537,7 +14780,6 @@ Fancy	O
 that	O
 .	O
 https://t.co/neU9Et3d0B	O
-
 RT	O
 @	O
 Mediaite	O
@@ -15558,7 +14800,6 @@ https://t.co/cik5GuAd8d	O
 VIDEO	O
 )	O
 https://t.co/ji4KSkv62m	O
-
 RT	O
 @	O
 issafeminist	O
@@ -15586,7 +14827,6 @@ me	O
 otherwise	O
 .	O
 https://t.co/…	O
-
 Because	O
 :	O
 Why	O
@@ -15595,7 +14835,6 @@ hell	O
 not	O
 .	O
 https://t.co/bLckZfTX8g	O
-
 Can	O
 we	O
 talk	O
@@ -15629,7 +14868,6 @@ lt	O
 ;	O
 ❤	O
 https://t.co/Y4ZL0cYp2V	O
-
 @	O
 TPM	O
 Stop	O
@@ -15637,7 +14875,6 @@ whining	O
 a-hole	O
 .	O
 https://t.co/138JaBHtzg	O
-
 @	O
 RevAaronMarquis	O
 Based	O
@@ -15663,7 +14900,6 @@ employees	O
 who	O
 do	O
 ?	O
-
 It	O
 '	O
 s	O
@@ -15682,7 +14918,6 @@ morning	O
 people	O
 !	O
 !	O
-
 @	O
 FinBergin	B-person
 Exactly	O
@@ -15695,7 +14930,6 @@ in	O
 the	O
 wrong	O
 here	O
-
 @	O
 timkaine	B-person
 help	O
@@ -15709,7 +14943,6 @@ us	O
 from	O
 him	O
 .	O
-
 @	O
 hollydollyrazzy	O
 u	O
@@ -15722,7 +14955,6 @@ in	O
 some	O
 swampland	O
 !	O
-
 RT	O
 @	O
 TheCWSupergirl	O
@@ -15735,7 +14967,6 @@ returns	O
 #	O
 Supergirl	O
 https://t.co/9tQ6nuttJK	O
-
 Moving	O
 your	O
 work	O
@@ -15761,7 +14992,6 @@ us	O
 .	O
 .	O
 https://t.co/GHZa0nHAqp	O
-
 RT	O
 @	O
 BadlandsNPS	O
@@ -15783,7 +15013,6 @@ ParkScience	B-creative-work
 #	O
 bighorns	O
 https://t.co/w0z8oJG95m	O
-
 @	O
 fayebanogon	O
 ANO	O
@@ -15793,7 +15022,6 @@ TRABAHO	O
 KA	O
 NA	O
 BA	O
-
 I	O
 '	O
 m	O
@@ -15815,9 +15043,7 @@ Honestly	O
 Truly	O
 .	O
 https://t.co/8aJeCHwUAh	O
-
 https://t.co/5Y1I3P9pZ8	O
-
 RT	O
 @	O
 KidDirtyJokes	O
@@ -15833,7 +15059,6 @@ for	O
 20	O
 minutes	O
 https://t.co/9Q5W8t4VJp	O
-
 @	O
 Bmac	O
 0507	O
@@ -15847,9 +15072,7 @@ m	O
 trying	O
 to	O
 !	O
-
 https://t.co/EpyCB6rhmq	O
-
 @	O
 rootstroye	O
 oh	O
@@ -15864,7 +15087,6 @@ live	O
 in	O
 toronto	B-location
 oOPS	O
-
 RT	O
 @	O
 elessar	O
@@ -15895,7 +15117,6 @@ some	O
 random	O
 quirk	O
 .	O
-
 @	O
 Bulls	O
 _	O
@@ -15912,7 +15133,6 @@ levels	O
 are	O
 on	O
 par	O
-
 Making	O
 my	O
 base	O
@@ -15920,7 +15140,6 @@ secure	O
 :	O
 )	O
 https://t.co/N3lVSY6tUX	O
-
 This	O
 how	O
 females	O
@@ -15938,7 +15157,6 @@ total	O
 respect	O
 👏	O
 https://t.co/uSVwoeZC8B	O
-
 RT	O
 @	O
 Harry	B-person
@@ -15953,7 +15171,6 @@ Glasgow	B-location
 15	O
 .	O
 https://t.co/oktJP82lDd	O
-
 #	O
 SEO	O
 Tip	O
@@ -15980,7 +15197,6 @@ top	O
 .	O
 #	O
 google	B-product
-
 RT	O
 @	O
 stealthygeek	O
@@ -16000,7 +15216,6 @@ punch	O
 Nazis	B-group
 .	O
 https://t.co/9FzK5V0UnP	O
-
 #	O
 teenporn	O
 #	O
@@ -16023,7 +15238,6 @@ gifporn	O
 #	O
 porngif	O
 https://t.co/GWTJ560NIQ	O
-
 Yes	O
 ,	O
 I	O
@@ -16036,7 +15250,6 @@ does	O
 that	O
 to	O
 people	O
-
 RT	O
 @	O
 StoutBoyz	O
@@ -16049,7 +15262,6 @@ finna	O
 snitch	O
 lmaooooo	O
 https://t.co/Ex7KVN1BuB	O
-
 Bangkok	B-location
 ,	O
 Thailand	B-location
@@ -16067,7 +15279,6 @@ conozcopablo	O
 #	O
 Travel	O
 https://t.co/qxLmN6lGV4	O
-
 Lockheed	B-corporation
 says	O
 Trump	B-person
@@ -16081,7 +15292,6 @@ F-	B-product
 profitability	O
 -	O
 https://t.co/qaer0LaaN2	O
-
 RT	O
 @	O
 brianklaas	B-person
@@ -16110,7 +15320,6 @@ Retweet	O
 anyway	O
 .	O
 https://t.…	O
-
 Just	O
 posted	O
 a	O
@@ -16122,9 +15331,7 @@ Utara	I-location
 -	O
 Buahbatu	B-location
 https://t.co/u7WQDGcSVW	O
-
 https://t.co/3kPsB84H8C	O
-
 Court	O
 Reinstates	O
 Man	O
@@ -16140,7 +15347,6 @@ Drug	O
 Case	O
 -	O
 https://t.co/JtJEKJOcvU	O
-
 DING	O
 DING	O
 DING	O
@@ -16152,7 +15358,6 @@ DING	O
 DING	O
 DING	O
 DING	O
-
 If	O
 only	O
 this	O
@@ -16180,7 +15385,6 @@ with	O
 yo	O
 …	O
 https://t.co/KW14LHfOKW	O
-
 The	O
 iconic	O
 "	O
@@ -16191,7 +15395,6 @@ chat	O
 later	O
 "	O
 https://t.co/OwRUomNgv0	O
-
 RT	O
 @	O
 TheVidSpot	O
@@ -16207,7 +15410,6 @@ rock	O
 climbing	O
 wall	O
 https://t.co/rduhyjvMGq	O
-
 RT	O
 @	O
 lisaag	O
@@ -16234,7 +15436,6 @@ decisions	O
 we	O
 …	O
 https://t.co/0AkmHXq9WG	O
-
 On	O
 the	O
 Street	O
@@ -16246,7 +15447,6 @@ Florence	B-location
 #	O
 photos	O
 https://t.co/8r0AHF8Mff	O
-
 RT	O
 @	O
 zvhirXX	O
@@ -16258,7 +15458,6 @@ these	O
 back	O
 .	O
 https://t.co/2WGQ1H8w6o	O
-
 RT	O
 @	O
 KnifingTourney	O
@@ -16270,7 +15469,6 @@ Tourney	I-group
 Judges	B-group
 .	O
 https://t.co/0xLPX96NHA	O
-
 RT	O
 @	O
 TheVidSpot	B-corporation
@@ -16286,7 +15484,6 @@ rock	O
 climbing	O
 wall	O
 https://t.co/rduhyjvMGq	O
-
 Someone	O
 be	O
 down	O
@@ -16299,7 +15496,6 @@ s	O
 concert	O
 with	O
 me	O
-
 RT	O
 @	O
 GraysonDolan	B-person
@@ -16317,7 +15513,6 @@ because	O
 of	O
 spilling	O
 errors	O
-
 RT	O
 @	O
 DumpTrump	O
@@ -16326,7 +15521,6 @@ DumpTrump	O
 #	O
 SpicerFacts	O
 https://t.co/QgTMuKN7mT	O
-
 #	O
 porn	O
 star	O
@@ -16336,7 +15530,6 @@ old	O
 man	O
 sex	O
 https://t.co/IzjQGVEnxg	O
-
 Doing	O
 play	O
 by	O
@@ -16361,7 +15554,6 @@ go	O
 Senate	B-group
 !	O
 https://t.co/gf0q0vLBV1	O
-
 2017	O
 -	O
 01	O
@@ -16425,7 +15617,6 @@ Humi	O
 .	O
 000	O
 )	O
-
 #	O
 Good	O
 New	O
@@ -16451,7 +15642,6 @@ Size	O
 https://t.co/SnsOc5pEwP	O
 …	O
 https://t.co/moOb6H9YD8	O
-
 RT	O
 @	O
 Igbtryden	O
@@ -16475,7 +15665,6 @@ cool	O
 .	O
 ”	O
 http://t.co/DeqPMdoyoB	O
-
 Man	O
 Finna	O
 bring	O
@@ -16487,7 +15676,6 @@ to	O
 my	O
 job	O
 😎	O
-
 @	O
 JennaJackson	O
 16	O
@@ -16518,7 +15706,6 @@ t	O
 think	O
 it	O
 is	O
-
 RT	O
 @	O
 dazb	O
@@ -16541,7 +15728,6 @@ moment	O
 Summer	O
 wear	O
 !	O
-
 Sacha	B-person
 Baron	I-person
 Cohen	I-person
@@ -16560,7 +15746,6 @@ SachaBaronCohen	B-person
 https://t.co/j5sX477935	O
 #	O
 sachabaroncohen	B-person
-
 RT	O
 @	O
 kaleyrams	O
@@ -16589,7 +15774,6 @@ under	O
 my	O
 door	O
 https://t.co/WN…	O
-
 Do	O
 not	O
 blame	O
@@ -16603,7 +15787,6 @@ will	O
 never	O
 change	O
 .	O
-
 Your	O
 friends	O
 and	O
@@ -16622,7 +15805,6 @@ More	O
 for	O
 Aquarius	O
 https://t.co/6R6L36dVnM	O
-
 RT	O
 @	O
 _	O
@@ -16647,7 +15829,6 @@ don	O
 t	O
 live	O
 together	O
-
 RT	O
 @	O
 WhennBoys	O
@@ -16682,7 +15863,6 @@ tickets	O
 to	O
 see	O
 …	O
-
 RT	O
 @	O
 PornHardd	O
@@ -16715,7 +15895,6 @@ PornHardd	O
 ophelia	O
 231013	O
 …	O
-
 @	O
 rmathis	O
 15	O
@@ -16726,7 +15905,6 @@ raspberry	B-product
 sorbet	I-product
 gum	I-product
 ?	O
-
 @	O
 grigiosluts	O
 @	O
@@ -16744,7 +15922,6 @@ t	O
 face	O
 it	O
 ffs	O
-
 RT	O
 @	O
 broodingbrahmin	O
@@ -16771,13 +15948,11 @@ honorably	O
 serving	O
 this	O
 …	O
-
 RT	O
 @	O
 romanhipaula	O
 :	O
 https://t.co/MzXu2uqOMC	O
-
 The	O
 River	B-location
 Rom	I-location
@@ -16805,7 +15980,6 @@ the	O
 River	O
 …	O
 https://t.co/jzzw4lSsJa	O
-
 RT	O
 @	O
 jesusworecrocs	O
@@ -16823,14 +15997,10 @@ a	O
 vegan	O
 smoothie	O
 https://t.co/37wHYS3GZq	O
-
 8	O
 https://t.co/hVwmiPRbPI	O
-
 https://t.co/ZDANOd13Lv	O
-
 https://t.co/hqwCwEtjJv	O
-
 frugaliscious	O
 :	O
 It	O
@@ -16852,7 +16022,6 @@ P	I-creative-work
 .	O
 .	O
 https://t.co/rSiOwfOSWY	O
-
 #	O
 naked	O
 on	O
@@ -16863,7 +16032,6 @@ male	O
 mature	O
 woman	O
 https://t.co/TlRrNT1wwI	O
-
 RT	O
 @	O
 ThomasBeautyy	O
@@ -16895,7 +16063,6 @@ or	O
 no	O
 ?	O
 https://…	O
-
 #	O
 Astana	B-location
 talks	O
@@ -16911,7 +16078,6 @@ crisis	O
 -	O
 https://t.co/pWfNBemi3N	O
 https://t.co/oc5Rd1EH0z	O
-
 Sweeter	O
 than	O
 a	O
@@ -16926,7 +16092,6 @@ the	O
 girl	O
 thats	O
 witchyaaa	O
-
 #	O
 F	O
 4	O
@@ -16939,7 +16104,6 @@ FollowTrick	O
 TeamFollowBack	O
 #	O
 AnotherFollowTrain	O
-
 RT	O
 @	O
 mcgregor	B-person
@@ -16974,7 +16138,6 @@ his	O
 comments	O
 about	O
 …	O
-
 @	O
 jellibun	O
 hmmm	O
@@ -16995,7 +16158,6 @@ at	O
 all	O
 costs	O
 👊	O
-
 On	O
 god	O
 Darius	B-person
@@ -17003,7 +16165,6 @@ plugs	O
 unreliable	O
 asf	O
 https://t.co/aTJdj52tNv	O
-
 The	B-creative-work
 Sheep	I-creative-work
 #	O
@@ -17021,7 +16182,6 @@ political	O
 #	O
 DumpTrump	O
 https://t.co/Z6dyLcXlWF	O
-
 I	O
 think	O
 obi	B-person
@@ -17049,7 +16209,6 @@ a	O
 sister	O
 @	O
 HamillHimself	O
-
 RT	O
 @	O
 faerieli	O
@@ -17060,7 +16219,6 @@ faerieli	O
 cake	O
 !	O
 !	O
-
 #	O
 authorconfession	O
 D	O
@@ -17070,7 +16228,6 @@ Favourite	O
 Inspirational	O
 Quote	O
 https://t.co/W5VcDV0KzI	O
-
 Retweeting	O
 for	O
 @	O
@@ -17091,9 +16248,7 @@ TrumpLeaks	O
 DworkinReport	O
 …	O
 https://t.co/1b7qIhtqwH	O
-
 https://t.co/vlNer7z5w6	O
-
 omg	O
 this	O
 song	O
@@ -17102,7 +16257,6 @@ me	O
 cry	O
 everytime	O
 https://t.co/Fm5RszmXHz	O
-
 “	O
 La	B-creative-work
 La	I-creative-work
@@ -17133,7 +16287,6 @@ via	O
 c	O
 0	O
 nvey	O
-
 RT	O
 @	O
 MasoodRaw	O
@@ -17146,7 +16299,6 @@ when	O
 ramadan	O
 is	O
 https://t.co/nIi6LOGkPs	O
-
 RT	O
 @	O
 WorIdStarComedy	O
@@ -17160,13 +16312,11 @@ so	O
 jokes	O
 😂	O
 https://t.co/uhxmybhsYz	O
-
 RT	O
 @	O
 savmontano	O
 :	O
 https://t.co/fDc1nJ7WQ6	O
-
 RT	O
 @	O
 miyu	O
@@ -17179,7 +16329,6 @@ from	O
 within	O
 .	O
 https://t.co/YLE8Yl86YE	O
-
 RT	O
 @	O
 PandasDaiIy	O
@@ -17191,7 +16340,6 @@ for	O
 7	O
 seconds	O
 https://t.co/bu7aBkIjYj	O
-
 Now	O
 playing	O
 :	O
@@ -17208,7 +16356,6 @@ live	O
 :	O
 https://t.co/pHXLO1eb4v	O
 https://t.co/MZNlOyvAJ4	O
-
 Clean	O
 Sweep	O
 as	O
@@ -17220,7 +16367,6 @@ city	O
 charity	O
 https://t.co/5VEIBK228B	O
 https://t.co/DcwFj8k5XE	O
-
 Blog	B-creative-work
 Technology	I-creative-work
 to	O
@@ -17244,7 +16390,6 @@ at	O
 :	O
 00	O
 AM	O
-
 RT	O
 @	O
 saykomala	O
@@ -17256,7 +16401,6 @@ morninggg	O
 MissUniverse	B-person
 #	O
 Indonesia	B-location
-
 RT	O
 @	O
 Lawrence	B-person
@@ -17288,7 +16432,6 @@ of	O
 campaign	O
 .	O
 https://t.c…	O
-
 this	O
 1492	O
 trump	B-person
@@ -17317,7 +16460,6 @@ mexico	B-location
 .	O
 .	O
 https://t.co/D9YOoLLuRq	O
-
 Illuminatiam	B-creative-work
 :	I-creative-work
 The	I-creative-work
@@ -17327,7 +16469,6 @@ Of	I-creative-work
 The	I-creative-work
 Illuminati	I-creative-work
 https://t.co/DzwRWGm6fB	O
-
 RT	O
 @	O
 PrisonPlanet	O
@@ -17356,7 +16497,6 @@ literally	O
 shaking	O
 .	O
 https:…	O
-
 RT	O
 @	O
 bangooan	O
@@ -17364,7 +16504,6 @@ _	O
 aek	O
 :	O
 https://t.co/hsoMy2Hamk	O
-
 Probably	O
 one	O
 of	O
@@ -17382,7 +16521,6 @@ capable	O
 of	O
 💪	O
 💯	O
-
 RT	O
 @	O
 meoyuasa	O
@@ -17396,7 +16534,6 @@ move	O
 mountains	O
 .	O
 https://t.co/cu6s6dfpop	O
-
 I	O
 '	O
 ve	O
@@ -17416,7 +16553,6 @@ BestFans	O
 HBestFans	O
 https://t.co/fxFNhnvZ4t	O
 😊	O
-
 RT	O
 @	O
 5	O
@@ -17429,7 +16565,6 @@ BestMusicVideo	O
 #	O
 iHeartAwards	O
 https://t.co/GWdK7L7RtR	O
-
 RT	O
 @	O
 5	O
@@ -17442,7 +16577,6 @@ BestMusicVideo	O
 #	O
 iHeartAwards	O
 https://t.co/GWdK7L7RtR	O
-
 RT	O
 @	O
 5	O
@@ -17455,7 +16589,6 @@ BestMusicVideo	O
 #	O
 iHeartAwards	O
 https://t.co/GWdK7L7RtR	O
-
 RT	O
 @	O
 5	O
@@ -17468,7 +16601,6 @@ BestMusicVideo	O
 #	O
 iHeartAwards	O
 https://t.co/GWdK7L7RtR	O
-
 RT	O
 @	O
 Juvens	O
@@ -17506,7 +16638,6 @@ either	O
 .	O
 .	O
 .	O
-
 RT	O
 @	O
 coppolanat	O
@@ -17536,7 +16667,6 @@ at	O
 .	O
 .	O
 https://t.co/…	O
-
 @	O
 LCGila	O
 07	O
@@ -17545,9 +16675,7 @@ CuriousCatMe	O
 kkkkkkkkkkkkkkk	O
 ,	O
 pqp	O
-
 https://t.co/VbwdYoScRn	O
-
 RT	O
 @	O
 Zoe	B-person
@@ -17580,7 +16708,6 @@ daddy	O
 👅	O
 👅	O
 https://t.co/mEKhfsaUXo	O
-
 RT	O
 @	O
 Latinglow	O
@@ -17591,7 +16718,6 @@ mahal	O
 brurr	O
 .	O
 .	O
-
 RT	O
 @	O
 spanishcvndy	O
@@ -17614,7 +16740,6 @@ to	O
 be	O
 together	O
 https://t.co/oKc66awesp	O
-
 #	O
 mature	O
 group	O
@@ -17624,7 +16749,6 @@ fucking	O
 black	O
 babe	O
 https://t.co/WS4mEwtgnw	O
-
 RT	O
 @	O
 TheLeadCNN	O
@@ -17653,11 +16777,9 @@ is	O
 no	O
 evidence	O
 …	O
-
 Leaves	B-location
 !	O
 https://t.co/RaRNJ6cu9a	O
-
 RT	O
 @	O
 nochillthalia	O
@@ -17672,7 +16794,6 @@ this	O
 iconic	O
 vine	O
 https://t.co/GfaKNo5NDS	O
-
 @	O
 JiovanniVargas	B-person
 she	O
@@ -17697,7 +16818,6 @@ a	O
 punch	O
 😂	O
 😂	O
-
 Check	O
 out	O
 "	O
@@ -17716,7 +16836,6 @@ Smule	B-product
 https://t.co/mCxofiCKqd	O
 #	O
 SingKaraoke	O
-
 RT	O
 @	O
 kartikaaw	O
@@ -17731,7 +16850,6 @@ Warouw	I-person
 MissUniverse	B-person
 #	O
 Indonesia	B-location
-
 RT	O
 @	O
 ltsFRIENDSposts	O
@@ -17740,7 +16858,6 @@ Literally	O
 me	O
 :	O
 https://t.co/s58wlbemVP	O
-
 RT	O
 @	O
 NathanZed	B-person
@@ -17777,7 +16894,6 @@ country	O
 ,	O
 now	O
 …	O
-
 The	O
 time	O
 is	O
@@ -17791,7 +16907,6 @@ at	O
 00	O
 AM	O
 .	O
-
 RT	O
 @	O
 Prettyboy	O
@@ -17809,7 +16924,6 @@ a	O
 fight	O
 ?	O
 ?	O
-
 Seoul-	B-location
 Incheon	I-location
 ,	I-location
@@ -17830,7 +16944,6 @@ conozcopablo	O
 #	O
 Travel	O
 https://t.co/3OzEAUYKjx	O
-
 RT	O
 @	O
 MartinBelam	B-person
@@ -17861,7 +16974,6 @@ with	O
 their	O
 r	O
 …	O
-
 RT	O
 @	O
 IngrahamAngle	O
@@ -17887,7 +16999,6 @@ to	O
 media	O
 .	O
 https://t.co/RjBWzduYIP	O
-
 @	O
 MaryKayCabot	B-person
 @	O
@@ -17895,7 +17006,6 @@ TheKennyRoda	B-person
 @	O
 clevelanddotcom	B-corporation
 https://t.co/zSacM2iqb7	O
-
 The	O
 Line	O
 That	O
@@ -17907,7 +17017,6 @@ Massive	O
 Success	O
 https://t.co/hEWYC04cHw	O
 https://t.co/zh9Ql6P1Ky	O
-
 I	O
 '	O
 ve	O
@@ -17921,7 +17030,6 @@ darling	O
 tableFIVE	O
 08	O
 https://t.co/pYrsXCEgZy	O
-
 RT	O
 @	O
 glowkit	O
@@ -17943,7 +17051,6 @@ total	O
 !	O
 !	O
 )	O
-
 LUB	B-group
 expires	O
 Wind	O
@@ -17955,7 +17062,6 @@ till	O
 PM	O
 CST	O
 https://t.co/x5da9yigjY	O
-
 Judge	O
 rules	O
 Tamara	B-person
@@ -17972,13 +17078,11 @@ her	O
 #	O
 DiscoveryRidge	O
 https://t.co/ro0DxQvUL0	O
-
 @	O
 BeatrizDjee	O
 MAAX	O
 QUE	O
 BOM	O
-
 RT	O
 @	O
 FillWerrell	O
@@ -17992,7 +17096,6 @@ laughed	O
 so	O
 hard	O
 https://t.co/NxaARpReEV	O
-
 RT	O
 @	O
 wvucobe	O
@@ -18023,7 +17126,6 @@ light	I-creative-work
 show	I-creative-work
 !	O
 …	O
-
 @	O
 Lance	O
 210	O
@@ -18051,7 +17153,6 @@ What	O
 happened	O
 after	O
 ?	O
-
 Dieting	O
 as	O
 demonstrated	O
@@ -18065,7 +17166,6 @@ IRL	O
 #	O
 NHsmc	O
 https://t.co/2oz6u8aufr	O
-
 @	O
 tirckt	O
 you	O
@@ -18084,13 +17184,11 @@ you	O
 On	O
 this	O
 !	O
-
 My	O
 Lyft	B-product
 is	O
 lit	O
 !	O
-
 @	O
 sallykohn	B-person
 you	O
@@ -18101,7 +17199,6 @@ kind	O
 of	O
 stupid	O
 !	O
-
 RT	O
 @	O
 elizabeth	B-person
@@ -18145,7 +17242,6 @@ amp	O
 Ms	O
 ,	O
 …	O
-
 RT	O
 @	O
 audubonsociety	O
@@ -18168,7 +17264,6 @@ Eagle	O
 .	O
 https://t.co/shCTBCgPOJ	O
 https://…	O
-
 @	O
 ballhard	B-person
 _	O
@@ -18180,7 +17275,6 @@ wasn	O
 t	O
 loaded	O
 😂	O
-
 RT	O
 @	O
 IamAkademiks	O
@@ -18203,12 +17297,10 @@ Rubberband	O
 man	O
 .	O
 https://t.co/2u4mV82Xql	O
-
 kina	O
 sex	O
 anal	O
 https://t.co/iD26UoP7tl	O
-
 Don	O
 '	O
 t	O
@@ -18220,7 +17312,6 @@ made	O
 it	O
 📍	O
 https://t.co/Fm9WB5T6IV	O
-
 More	O
 than	O
 500	O
@@ -18239,7 +17330,6 @@ at	O
 00	O
 AM	O
 https://t.co/9fR8CrvBLi	O
-
 RT	O
 @	O
 MaikoKitamura	B-person
@@ -18259,7 +17349,6 @@ NIGHT	O
 #	O
 LLRelationshipGoals	O
 https://t.co/VrbnKAvcVy	O
-
 Lowongan	O
 PT	B-corporation
 Citilink	I-corporation
@@ -18277,7 +17366,6 @@ January	O
 .	O
 .	O
 https://t.co/GIGQnl4qTY	O
-
 RT	O
 @	O
 GirIfession	O
@@ -18290,13 +17378,11 @@ my	O
 own	O
 house	O
 https://t.co/WeamavpIMQ	O
-
 RT	O
 @	O
 minsugapics	O
 :	O
 https://t.co/50Q6D4GKIJ	O
-
 RT	O
 @	O
 MatsMats	O
@@ -18316,7 +17402,6 @@ s	O
 goal	O
 .	O
 https://t.co/OomsNdQocf	O
-
 @	O
 kimischilling	O
 there	O
@@ -18325,14 +17410,12 @@ s	O
 always	O
 something	O
 https://t.co/rNGTYQSDUY	O
-
 Student	O
 Guest	O
 Program	O
 #	O
 Bothell	O
 https://t.co/BrqvFFslAz	O
-
 I	O
 see	O
 why	O
@@ -18346,7 +17429,6 @@ dick	O
 clique	O
 @	O
 onsomeshit	O
-
 @	O
 usedgov	O
 Do	O
@@ -18370,7 +17452,6 @@ s	O
 .	O
 😒	O
 😔	O
-
 @	O
 TwoBlindBros	B-group
 Fantastic	O
@@ -18387,7 +17468,6 @@ you	O
 guys	O
 !	O
 !	O
-
 RT	O
 @	O
 karibrownnn	B-person
@@ -18419,7 +17499,6 @@ and	O
 everyday	O
 .	O
 "	O
-
 RT	O
 @	O
 _	O
@@ -18460,7 +17539,6 @@ think	O
 you	O
 do	O
 …	O
-
 @	O
 WarGit	O
 @	O
@@ -18488,7 +17566,6 @@ off	O
 into	O
 the	O
 mud	O
-
 DELL	B-product
 Inspiron	I-product
 17	I-product
@@ -18516,7 +17593,6 @@ DVDRW	I-product
 Laptop	I-product
 https://t.co/SvPm1Qm5dg	O
 https://t.co/eG2GWQ5Jv7	O
-
 Get	O
 sexy	O
 girls	O
@@ -18540,7 +17616,6 @@ babes	O
 #	O
 camgirls	O
 https://t.co/GoTHB4GSor	O
-
 It	O
 is	O
 not	O
@@ -18563,7 +17638,6 @@ asshole	O
 .	O
 …	O
 https://t.co/8bWcg5oMOK	O
-
 RT	O
 @	O
 PrisonPlanet	B-creative-work
@@ -18591,7 +17665,6 @@ to	O
 Kellyanne	B-person
 .	O
 https://t.c…	O
-
 RT	O
 @	O
 HalfOnionInABag	O
@@ -18617,9 +17690,7 @@ more	O
 followers	O
 than	O
 …	O
-
 https://t.co/E4qbKeQnqK	O
-
 @	O
 CNNPolitics	B-corporation
 this	O
@@ -18627,7 +17698,6 @@ is	O
 a	O
 joke	O
 right	O
-
 RT	O
 @	O
 HalfOnionInABag	O
@@ -18653,7 +17723,6 @@ plastic	O
 bag	O
 :	O
 https://t.co/GsjZKDxoRz	O
-
 RT	O
 @	O
 suav	O
@@ -18661,7 +17730,6 @@ suav	O
 be	O
 :	O
 https://t.co/rbdLUAeHK5	O
-
 RT	O
 @	O
 HotFreestyle	B-corporation
@@ -18678,7 +17746,6 @@ album	O
 Culture	B-creative-work
 "	O
 https://t.co/Z0PxA8gtFw	O
-
 RT	O
 @	O
 RelatableQuote	O
@@ -18691,7 +17758,6 @@ m	O
 so	O
 surprised	O
 https://t.co/vcDyRfsie6	O
-
 @	O
 VroniquePersic	O
 1	O
@@ -18722,7 +17788,6 @@ WahlLove	I-person
 DonnieWahlberg	B-person
 #	O
 twug	O
-
 RT	O
 @	O
 ThirtySecFights	O
@@ -18737,7 +17802,6 @@ bullying	O
 boys	O
 nephew	O
 https://t.co/QtU8e6s6SK	O
-
 UG	O
 !	O
 COMEDY	O
@@ -18759,7 +17823,6 @@ t	O
 co	O
 /	O
 YpSUsaWrPF	O
-
 RT	O
 @	O
 invaIidate	O
@@ -18786,7 +17849,6 @@ makes	O
 you	O
 happy	O
 .	O
-
 RT	O
 @	O
 CraigRBrittain	B-person
@@ -18814,7 +17876,6 @@ step-by-step	O
 programming	O
 o	O
 …	O
-
 Local	O
 /	O
 Online	O
@@ -18833,7 +17894,6 @@ Free	O
 .	O
 #	O
 PromoteBusiness	O
-
 RT	O
 @	O
 WSHHVlDS	O
@@ -18841,7 +17901,6 @@ WSHHVlDS	O
 IM	O
 SCREAMINGGGGGGGGGGGGG	O
 https://t.co/PFeXWWcYxY	O
-
 You	O
 might	O
 not	O
@@ -18863,7 +17922,6 @@ More	O
 for	O
 Libra	O
 https://t.co/ewI2W6UqR1	O
-
 RT	O
 @	O
 soompi	B-person
@@ -18885,7 +17943,6 @@ Dating	O
 IU	B-person
 https://t.co/cy7Cir3rhq	O
 https://t.co/6jGVOyQAte	O
-
 when	O
 you	O
 need	O
@@ -18908,7 +17965,6 @@ your	O
 cupboard	O
 x	O
 https://t.co/Du7WbfdX6i	O
-
 get	O
 $	O
 20	O
@@ -18932,7 +17988,6 @@ coupon	O
 #	O
 code	O
 https://t.co/tQdCewRvIW	O
-
 RT	O
 @	O
 baabyylex	O
@@ -18961,7 +18016,6 @@ adoption	O
 that	O
 d	O
 …	O
-
 RT	O
 @	O
 HugotDre	B-person
@@ -18976,7 +18030,6 @@ be	O
 my	O
 friend	O
 .	O
-
 RT	O
 @	O
 TheFunnyTeens	O
@@ -18986,7 +18039,6 @@ friend	O
 starter	O
 pack	O
 https://t.co/aUQPlTTuP6	O
-
 RT	O
 @	O
 ellsavelli	B-person
@@ -18998,7 +18050,6 @@ dying	O
 s	O
 permanent	O
 https://t.co/Ri48RQT03e	O
-
 RT	O
 @	O
 beatfaceleah	B-person
@@ -19013,7 +18064,6 @@ did	O
 this	O
 ✨	O
 https://t.co/XD3uZNGQTN	O
-
 RT	O
 @	O
 briankoppelman	B-person
@@ -19044,7 +18094,6 @@ you	O
 ,	O
 Jak	B-person
 …	O
-
 RT	O
 @	O
 30	O
@@ -19059,7 +18108,6 @@ Lonely	B-creative-work
 Boy	I-creative-work
 "	O
 https://t.co/k1hxm2U1Mq	O
-
 9	O
 Resources	O
 For	O
@@ -19079,7 +18127,6 @@ https://t.co/c66x410IUr	O
 emailmarketing	O
 #	O
 startup	O
-
 RT	O
 @	O
 Kragar	B-person
@@ -19105,7 +18152,6 @@ act	O
 #	O
 ResistTrump	O
 https://t.co/iRzL9NT0Ru	O
-
 RT	O
 @	O
 JustDidItSport	O
@@ -19115,7 +18161,6 @@ coach	O
 cancels	O
 practice	O
 https://t.co/02yy2CFmDR	O
-
 @	O
 gisiez	O
 Yes	O
@@ -19147,7 +18192,6 @@ primitive	O
 .	O
 .	O
 .	O
-
 RT	O
 @	O
 maxinejiji	B-person
@@ -19166,7 +18210,6 @@ my	O
 inappropriate	O
 thoughts	O
 .	O
-
 RT	O
 @	O
 jzaffos	B-person
@@ -19189,7 +18232,6 @@ Confidential	O
 form	O
 :	O
 https://t.c…	O
-
 Don	O
 '	O
 t	O
@@ -19203,7 +18245,6 @@ will	O
 follow	O
 .	O
 https://t.co/b8lsMKIHda	O
-
 RT	O
 @	O
 September	O
@@ -19216,7 +18257,6 @@ wit	O
 ah	O
 quickness	O
 https://t.co/wBD20JsiC8	O
-
 RT	O
 @	O
 er	O
@@ -19247,7 +18287,6 @@ in	O
 European	O
 practice	O
 "	O
-
 @	O
 akinghes	O
 siiim	O
@@ -19256,11 +18295,9 @@ tipo	O
 eu	O
 to	O
 kkkk	O
-
 hairless	O
 teen	O
 https://t.co/fhg1VxeLF2	O
-
 RT	O
 @	O
 GayPrideBelize	B-creative-work
@@ -19276,7 +18313,6 @@ Go	O
 Belize	B-location
 .	O
 https://t.co/9suUngvG7T	O
-
 RT	O
 @	O
 BsbLifestyle	O
@@ -19294,7 +18330,6 @@ soon	O
 😢	O
 😢	O
 https://t.co/HAz33bS8hn	O
-
 #	O
 NowPlaying	O
 She	O
@@ -19308,7 +18343,6 @@ C	I-person
 Loc	I-person
 on	O
 https://t.co/N2EeQhksi0	O
-
 You	O
 can	O
 amaze	O
@@ -19328,7 +18362,6 @@ More	O
 for	O
 Virgo	B-product
 https://t.co/KD4RysiyaZ	O
-
 RT	O
 @	O
 DamnFeelings	O
@@ -19340,12 +18373,10 @@ you	O
 for	O
 hours	O
 .	O
-
 Fly	O
 away	O
 fly	O
 away	O
-
 RT	O
 @	O
 KleinISD	B-creative-work
@@ -19364,7 +18395,6 @@ via	O
 KISD	O
 _	O
 Multling	O
-
 RT	O
 @	O
 aprenderinglesz	O
@@ -19382,7 +18412,6 @@ parece	O
 ser	O
 divertida	O
 .	O
-
 RT	O
 @	O
 femalebook	O
@@ -19391,7 +18420,6 @@ femalebook	O
 my	O
 crush	O
 https://t.co/riUzxZqqGQ	O
-
 RT	O
 @	O
 DoctorZen	O
@@ -19418,7 +18446,6 @@ EPA	B-group
 .	O
 #	O
 …	O
-
 RT	O
 @	O
 VicMensa	O
@@ -19434,7 +18461,6 @@ CLOSE	O
 !	O
 👀	O
 https://t.co/uqz6zPr5l6	O
-
 @	O
 LegalGeagle	O
 I	O
@@ -19455,7 +18481,6 @@ Rule	O
 .	O
 Nice	O
 .	O
-
 @	O
 KATHERllNE	B-person
 All	O
@@ -19469,7 +18494,6 @@ no	O
 harm	O
 there	O
 bud	O
-
 RT	O
 @	O
 a	O
@@ -19479,7 +18503,6 @@ mofia	O
 Adulthood	O
 :	O
 https://t.co/c0arJl1bzM	O
-
 How	O
 to	O
 start	O
@@ -19499,7 +18522,6 @@ NapaPD	O
 NeighborhoodWatch	O
 …	O
 https://t.co/T3TqJhoCjU	O
-
 RT	O
 @	O
 SouthernHomo	O
@@ -19533,11 +18555,9 @@ have	O
 Dory	B-person
 .	O
 https://t.co…	O
-
 Pretty	O
 much	O
 https://t.co/XJedTummZz	O
-
 RT	O
 @	O
 broken	O
@@ -19551,7 +18571,6 @@ you	O
 don	O
 '	O
 t	O
-
 Want	O
 to	O
 pretend	O
@@ -19577,7 +18596,6 @@ Power	B-product
 .	I-product
 3	I-product
 https://t.co/ojpWdx1gIT	O
-
 "	O
 When	O
 you	O
@@ -19601,7 +18619,6 @@ life	O
 "	O
 Rick	B-person
 Warren	I-person
-
 RT	O
 @	O
 _	O
@@ -19616,7 +18633,6 @@ you	O
 not	O
 talking	O
 https://t.co/ZLcD56L6lT	O
-
 @	O
 Marcusb	B-person
 3	O
@@ -19641,9 +18657,7 @@ Alan	B-person
 can	O
 bond	O
 better	O
-
 https://t.co/xtojbCD5RB	O
-
 @	O
 HardCountFOX	B-corporation
 follow	O
@@ -19656,9 +18670,7 @@ very	O
 doubtful	O
 he	O
 retires	O
-
 https://t.co/XQ2sWdr9vM	O
-
 @	O
 SeanyReidy	B-person
 anything	O
@@ -19667,7 +18679,6 @@ done	O
 for	O
 that	O
 matter	O
-
 New	O
 Post	O
 :	O
@@ -19679,7 +18690,6 @@ Cartoon	I-creative-work
 Museum	I-creative-work
 https://t.co/k1wMU7Kvst	O
 https://t.co/h1jGfAx4e9	O
-
 RT	O
 @	O
 davidfrum	B-person
@@ -19711,12 +18721,10 @@ be	O
 disconnected	O
 from	O
 …	O
-
 Selamat	O
 pagi	O
 cegg	O
 ku	O
-
 10	O
 hot	O
 toys	O
@@ -19727,7 +18735,6 @@ couples	O
 into	O
 BDSM	O
 https://t.co/CmOupNGkuf	O
-
 RT	O
 @	O
 _	B-person
@@ -19745,7 +18752,6 @@ for	O
 ?	O
 "	O
 https://t.co/PIJssdNy86	O
-
 How	O
 to	O
 Do	O
@@ -19756,7 +18762,6 @@ at	O
 Home	O
 -	O
 https://t.co/AlxdR9SWc3	O
-
 10	O
 Awesome	O
 Resources	O
@@ -19769,12 +18774,10 @@ via	O
 https://t.co/tBcdSK90sj	O
 #	O
 BOSSTIPS	B-product
-
 No	O
 brainer	O
 .	O
 https://t.co/kZMApegN5M	O
-
 If	O
 you	O
 prefer	O
@@ -19797,7 +18800,6 @@ you	O
 !	O
 https://t.co/S1poVEnumr	O
 https://t.co/qTYbmAe0zw	O
-
 A	O
 heart	O
 that	O
@@ -19824,7 +18826,6 @@ Faith	O
 Ziglar	B-person
 …	O
 https://t.co/Miqq6ZWZRi	O
-
 @	O
 CassMoneyLive	O
 I	O
@@ -19833,7 +18834,6 @@ ll	O
 DM	O
 you	O
 lol	O
-
 RT	O
 @	O
 paperbeatstweet	O
@@ -19849,7 +18849,6 @@ probably	O
 never	O
 get	O
 off	O
-
 What	O
 happened	O
 last	O
@@ -19860,7 +18859,6 @@ again	O
 .	O
 #	O
 FortuneBot	B-creative-work
-
 RT	O
 @	O
 Leel	O
@@ -19874,7 +18872,6 @@ you	O
 live	O
 .	O
 https://t.co/dwLGwEsX6H	O
-
 RT	O
 @	O
 itsdougthepug	O
@@ -19886,7 +18883,6 @@ buys	O
 another	O
 pitcher	O
 https://t.co/UA5iJ1gyKw	O
-
 Questions	B-creative-work
 Not	I-creative-work
 Answers	I-creative-work
@@ -19896,7 +18892,6 @@ of	I-corporation
 Crayons	I-corporation
 https://t.co/CXafSHeWPV	O
 https://t.co/9kvP5sokij	O
-
 #	O
 adult	O
 aladdin	B-person
@@ -19904,7 +18899,6 @@ anal	O
 fingering	O
 female	O
 https://t.co/zrIVyNfI9j	O
-
 Straight	O
 a	O
 altered	O
@@ -19917,7 +18911,6 @@ militancy	O
 organizations	O
 :	O
 eagFcUa	O
-
 RT	O
 @	O
 hobibf	O
@@ -19936,7 +18929,6 @@ taehyung	B-person
 and	O
 jungkook	B-person
 https://t.co/YMKHcRifTS	O
-
 RT	O
 @	B-person
 Nazaire	I-person
@@ -19965,7 +18957,6 @@ via	O
 @	B-person
 voxd	I-person
 …	O
-
 #	O
 trapmusic	O
 #	O
@@ -19976,7 +18967,6 @@ Party	O
 -	O
 Horizons	B-corporation
 https://t.co/yjsUUapTjX	O
-
 @	O
 kookmin	O
 _	O
@@ -19985,7 +18975,6 @@ ph	O
 3	O
 thanks	O
 hahaha	O
-
 [	O
 ARTICLE	O
 ]	O
@@ -20016,7 +19005,6 @@ Billion	O
 .	O
 .	O
 https://t.co/QqJ5YE1RP1	O
-
 How	O
 to	O
 use	O
@@ -20030,21 +19018,18 @@ onlineshopping	O
 fulfillment	O
 .	O
 https://t.co/HndAq3gWE1	O
-
 @	O
 borg	O
 _	O
 nic	O
 oi	O
 ?	O
-
 Good	O
 morning	O
 ,	O
 beautiful	O
 !	O
 https://t.co/cv299VlH5k	O
-
 Wow	O
 !	O
 Kid-in-the-candy-store	O
@@ -20064,7 +19049,6 @@ st	O
 ?	O
 …	O
 https://t.co/jhcZPpguJ7	O
-
 @	O
 katarina	B-person
 _	I-person
@@ -20073,7 +19057,6 @@ neko	I-person
 /	O
 FANGIRLING	O
 SCREaaMS	O
-
 RT	O
 @	O
 davidlongoria	B-person
@@ -20092,7 +19075,6 @@ Tarkkonen	I-person
 #	O
 quote	O
 https://t.co/kEdv4NLpOm	O
-
 I	O
 '	O
 ve	O
@@ -20124,9 +19106,7 @@ did	O
 )	O
 …	O
 https://t.co/qBJRFu2KBW	O
-
 https://t.co/uRS5UPaj7J	O
-
 Layla	O
 Sa	O
 3	O
@@ -20134,7 +19114,6 @@ ida	O
 .	O
 .	O
 .	O
-
 Uroxatral	B-product
 10	O
 mg	O
@@ -20142,7 +19121,6 @@ x	O
 90	O
 pills	O
 https://t.co/alNLM2jSst	O
-
 @	O
 Black	O
 _	O
@@ -20154,7 +19132,6 @@ I	O
 ll	O
 miss	O
 you	O
-
 RT	O
 @	O
 kitttenqueen	O
@@ -20175,14 +19152,12 @@ rt	O
 !	O
 !	O
 https://t.co/l4znIq66RN	O
-
 @	O
 kinkshamer	B-person
 where	O
 what	O
 the	O
 fuck	O
-
 RT	O
 @	O
 MauricioTheSone	O
@@ -20195,7 +19170,6 @@ you	O
 feel	O
 the	O
 heat	O
-
 I	O
 guess	O
 that	O
@@ -20211,7 +19185,6 @@ dumped	O
 .	O
 .	O
 https://t.co/2s6U7CMWUr	O
-
 @	O
 CNN	B-corporation
 He	O
@@ -20220,7 +19193,6 @@ s	O
 an	O
 ass	O
 .	O
-
 It	O
 '	O
 s	O
@@ -20236,7 +19208,6 @@ classic	O
 games	O
 !	O
 https://t.co/BJNEZfJbge	O
-
 Then	O
 raoul	B-person
 spoke	O
@@ -20253,9 +19224,7 @@ oh	O
 madam	B-person
 mina	I-person
 .	O
-
 https://t.co/BJSV3u2Bo1	O
-
 RT	O
 @	O
 meoss	O
@@ -20287,7 +19256,6 @@ mine	O
 #	O
 MAYWARDForCocaColaPH	B-product
 https://t…	O
-
 RT	O
 @	O
 MarioLopezExtra	B-person
@@ -20308,7 +19276,6 @@ WEtv	B-corporation
 #	O
 JessicaRabbit	B-person
 https://t.co/15FkpMp9gH	O
-
 @	O
 Willpower	O
 _	O
@@ -20327,9 +19294,7 @@ reply	O
 #	O
 HowDoYouFeelChallenge	B-creative-work
 https://t.co/6ax9VLjnZP	O
-
 Coe	O
-
 Sat	O
 18	O
 th	O
@@ -20363,7 +19328,6 @@ C	O
 -	O
 #	O
 MyWeather	O
-
 @	O
 maria	B-person
 _	O
@@ -20398,7 +19362,6 @@ sexy	O
 body	O
 of	O
 yours	O
-
 RT	O
 @	O
 ZenkiEdgar	O
@@ -20422,7 +19385,6 @@ to	O
 happen	O
 .	O
 https://t.co/oZ…	O
-
 Evening	O
 Forecast	O
 :	O
@@ -20435,12 +19397,10 @@ change	O
 .	O
 #	O
 cowx	O
-
 Sebring	O
 Friday	O
 Notebook	B-product
 https://t.co/rN8l6W0LGQ	O
-
 2	O
 /	O
 2	O
@@ -20466,7 +19426,6 @@ https://t.co/h0fAk3mKwG	O
 weather	O
 #	O
 news	O
-
 RT	O
 @	O
 marIboros	B-person
@@ -20484,7 +19443,6 @@ s	O
 just	O
 not	O
 realistic	O
-
 RT	O
 @	O
 Kaaaatie	O
@@ -20515,7 +19473,6 @@ one	O
 ya	O
 know	O
 ?	O
-
 Now	O
 playing	O
 Money	B-creative-work
@@ -20536,7 +19493,6 @@ link	O
 below	O
 https://t.co/MIUcppR9OU	O
 https://t.co/HuYksBaHkb	O
-
 RT	O
 @	O
 2000	O
@@ -20552,12 +19508,10 @@ ft	O
 Nate	B-person
 Dogg	I-person
 https://t.co/vlZiyvWUxG	O
-
 @	O
 MIrandaBru	B-person
 _	O
 https://t.co/NNbbNE8Y5E	O
-
 RT	O
 @	O
 ColiDuhh	O
@@ -20585,7 +19539,6 @@ _	O
 RYS	O
 17	O
 https://t.co/PrFVEFlr12	O
-
 #	O
 naked	O
 lindsay	B-person
@@ -20595,7 +19548,6 @@ in	O
 school	O
 girl	O
 https://t.co/mPPIMf6DS5	O
-
 RT	O
 @	O
 ffyvibes	O
@@ -20613,7 +19565,6 @@ that	O
 s	O
 been	O
 loved	O
-
 Hey	O
 LOOK	O
 the	O
@@ -20622,7 +19573,6 @@ is	O
 here	O
 !	O
 https://t.co/LXNlQp31hO	O
-
 RT	O
 @	O
 sslah	O
@@ -20639,14 +19589,12 @@ Beautiful	O
 #	O
 SwallaVideo	B-creative-work
 https://t.co/ggbS2kIDpA	O
-
 brooke	B-person
 from	O
 candy	B-group
 girls	I-group
 nude	O
 https://t.co/rMP2DXSLnM	O
-
 @	O
 coffee	O
 _	O
@@ -20660,7 +19608,6 @@ have	O
 Bellarmine	B-corporation
 money	O
 lmao	O
-
 You	O
 are	O
 not	O
@@ -20671,7 +19618,6 @@ https://t.co/gaNO3vU4Im	O
 foodrelatedissueseatingdisorders	O
 #	O
 generalrecovery	O
-
 How	O
 '	O
 Up	B-creative-work
@@ -20687,7 +19633,6 @@ Case	O
 -	O
 https://t.co/PzZPTGoGy4	O
 https://t.co/4WGx0t8yLq	O
-
 Auto	B-creative-work
 DJ	I-creative-work
 Show	I-creative-work
@@ -20700,7 +19645,6 @@ live	O
 here	O
 :	O
 https://t.co/qBE5T6alql	O
-
 Jack	B-person
 Gilinsky	I-person
 ,	O
@@ -20718,13 +19662,11 @@ i	O
 love	O
 you	O
 .	O
-
 3	O
 :	O
 00	O
 AM	O
 https://t.co/AhKwvaG0jT	O
-
 RT	O
 @	O
 BCraftStorage	O
@@ -20754,7 +19696,6 @@ and	O
 .	O
 .	O
 https://t…	O
-
 RT	O
 @	O
 ttuck	B-person
@@ -20768,7 +19709,6 @@ like	O
 Mitch	B-person
 💰	O
 https://t.co/3cweqw3yfV	O
-
 RT	O
 @	O
 Konnan	B-person
@@ -20799,7 +19739,6 @@ for	O
 $	O
 3	O
 …	O
-
 I	O
 don	O
 '	O
@@ -20827,7 +19766,6 @@ league	O
 !	O
 !	O
 !	O
-
 how	O
 come	O
 im	O
@@ -20848,7 +19786,6 @@ the	O
 hair	O
 !	O
 https://t.co/bNcI3TgQnw	O
-
 🔴	O
 LIVE	O
 on	O
@@ -20856,9 +19793,7 @@ on	O
 YouNow	O
 -	O
 https://t.co/e8G85hsIag	O
-
 https://t.co/k20j1BKW96	O
-
 The	O
 power	O
 of	O
@@ -20879,7 +19814,6 @@ More	O
 for	O
 Libra	O
 https://t.co/qBO9bRptdZ	O
-
 Not	O
 feeling	O
 Trials	O
@@ -20904,7 +19838,6 @@ Battlefield	B-creative-work
 with	O
 the	O
 homies	O
-
 and	O
 y	O
 '	O
@@ -20919,7 +19852,6 @@ care	O
 about	O
 iarmys	B-product
 😤	O
-
 andrew	B-person
 mccabe	I-person
 fuck	O
@@ -20939,7 +19871,6 @@ realDonaldTrump	B-person
 DonaldJTrumpJr	B-person
 https://t.co/XGOEPsF0KB	O
 :	O
-
 RT	O
 @	O
 WORIDSTARHlPHOP	O
@@ -20952,7 +19883,6 @@ my	O
 life	O
 together	O
 https://t.co/Tase5IehRO	O
-
 I	O
 feel	O
 like	O
@@ -20973,7 +19903,6 @@ lil	O
 bias	O
 tho	O
 lol	O
-
 RT	O
 @	O
 ratetank	O
@@ -21000,14 +19929,12 @@ lost	O
 my	O
 respect	O
 .	O
-
 Emilia	B-person
 Clarke	I-person
 trying	O
 her	O
 best	O
 https://t.co/at3jP6prAz	O
-
 Development-ready	O
 land	O
 in	O
@@ -21024,7 +19951,6 @@ $	O
 000	O
 https://t.co/ir126rJrzO	O
 https://t.co/gXzfyvwiIc	O
-
 Building	O
 a	O
 Strategic	O
@@ -21035,7 +19961,6 @@ is	O
 Hard	O
 Work	O
 https://t.co/Pk7npkZ5jo	O
-
 @	O
 microgravitylab	B-group
 I	O
@@ -21061,7 +19986,6 @@ how	O
 hard	O
 I	O
 laughed	O
-
 RT	O
 @	O
 UpornTube	B-creative-work
@@ -21085,7 +20009,6 @@ gt	O
 ;	O
 https://t.co/kjXXkmittw	O
 https://t.co/Sj9mgipZdj	O
-
 RT	O
 @	O
 md	O
@@ -21127,7 +20050,6 @@ re	O
 okay	O
 w	O
 …	O
-
 RT	O
 @	O
 FreddyAmazin	B-person
@@ -21155,7 +20077,6 @@ on	O
 it	O
 either	O
 https://t.co/ziv8nAs1kk	O
-
 @	O
 Schofe	B-person
 @	O
@@ -21189,13 +20110,11 @@ that	O
 sooo	O
 funny	O
 😂	O
-
 @	O
 KammBe	B-person
 thats	O
 no	O
 help	O
-
 @	O
 TonyTGoodman	B-person
 @	O
@@ -21207,7 +20126,6 @@ just	O
 missed	O
 you	O
 !	O
-
 Tonight	O
 at	O
 10	O
@@ -21221,7 +20139,6 @@ News	I-creative-work
 kode	B-creative-work
 12	I-creative-work
 https://t.co/Ad6ruIyr5M	O
-
 Help	O
 to	O
 Stop	O
@@ -21238,7 +20155,6 @@ sign	O
 :	O
 https://t.co/c55GE1ecfz	O
 https://t.co/d7TyB0bIbm	O
-
 Ireland	B-location
 '	O
 s	O
@@ -21259,9 +20175,7 @@ in	O
 this	O
 article	O
 https://t.co/QZAkAxLB1d	O
-
 SUNNNNNNNNNNA	B-group
-
 #	O
 UC	O
 perfect	O
@@ -21283,7 +20197,6 @@ counted	O
 .	O
 @	O
 WCPO	O
-
 2017	O
 ,	O
 03	O
@@ -21302,7 +20215,6 @@ test	O
 11	O
 -	O
 2016	O
-
 RT	O
 @	O
 ELVIclothing	B-corporation
@@ -21331,13 +20243,11 @@ print	O
 culottes	O
 !	O
 …	O
-
 RT	O
 @	O
 WorIdStarLaugh	O
 :	O
 https://t.co/fCqGqmEsvz	O
-
 Race	B-person
 Recap	I-person
 :	O
@@ -21360,11 +20270,9 @@ archives	O
 #	O
 healthybalance	O
 https://t.co/bjZAsvcxcs	O
-
 Wow	O
 mbn	O
 https://t.co/VQt87Vwz4X	O
-
 RT	O
 @	O
 CrapTaxidermy	B-person
@@ -21396,7 +20304,6 @@ lake	O
 !	O
 "	O
 https:…	O
-
 RT	O
 @	O
 marIboros	B-person
@@ -21430,10 +20337,8 @@ such	O
 a	O
 nice	O
 feeling	O
-
 ATA	O
 .	O
-
 20	O
 Unusual	O
 Baby	O
@@ -21446,7 +20351,6 @@ But	O
 Should	O
 Consider	O
 https://t.co/ypA8onSV0Y	O
-
 81	O
 %	O
 done	O
@@ -21457,7 +20361,6 @@ by	O
 Jane	B-person
 Ederlyn	I-person
 https://t.co/cyEzucZWH5	O
-
 RT	O
 @	O
 abhik	O
@@ -21475,7 +20378,6 @@ cancelled	O
 ?	O
 ?	O
 https://t.co/KI1WURQ5Gw	O
-
 15	O
 Mind	O
 Boggling	O
@@ -21491,7 +20393,6 @@ Food	O
 for	O
 Thought	O
 https://t.co/oiHj6IQGuX	O
-
 @	O
 DepCrusaderz	B-person
 For	O
@@ -21506,7 +20407,6 @@ picking	O
 .	O
 .	O
 .	O
-
 I	O
 dream	O
 of	O
@@ -21525,13 +20425,11 @@ no	O
 kufr	O
 Police	O
 https://t.co/q2XTjd6x0m	O
-
 OMG	O
 !	O
 Why	O
 ?	O
 https://t.co/KFAEj7Ikk1	O
-
 RT	O
 @	O
 yesImthatdope	O
@@ -21540,7 +20438,6 @@ Mind	O
 your	O
 business	O
 https://t.co/MBbVGUB9h2	O
-
 Harry	B-person
 Potter	I-person
 Humour	O
@@ -21550,13 +20447,11 @@ Write	O
 Creative	O
 Blog	O
 https://t.co/U7LqBNgv3z	O
-
 RT	O
 @	O
 iLGDaily	B-corporation
 :	O
 https://t.co/ymhWfDRoKm	O
-
 #	O
 Positive	O
 #	O
@@ -21581,7 +20476,6 @@ guitar	O
 #	O
 punkrock	O
 https://t.co/BAEqu7olPJ	O
-
 I	O
 won	O
 7	O
@@ -21595,7 +20489,6 @@ for	O
 TrueAchievement	O
 points	O
 https://t.co/HQ81xmjBG2	O
-
 Intensive	O
 speech	O
 therapy	O
@@ -21604,7 +20497,6 @@ months	O
 after	O
 stroke	O
 https://t.co/opScLXtiC3	O
-
 I	O
 will	O
 never	O
@@ -21616,7 +20508,6 @@ to	O
 support	O
 Niall	B-person
 Horan	I-person
-
 Trio	O
 @	O
 phronesismusic	B-group
@@ -21639,11 +20530,9 @@ Behemoth	I-creative-work
 EditionRecords	B-corporation
 …	O
 https://t.co/UV5UG6ec2w	O
-
 @	O
 realJosephEG	O
 https://t.co/v65QoA0Uyx	O
-
 @	O
 CorporalMum	B-person
 YES	O
@@ -21668,7 +20557,6 @@ with	O
 the	O
 dog	O
 lol	O
-
 RT	O
 @	O
 CrinkleWuskyCub	O
@@ -21698,7 +20586,6 @@ wet	O
 c	O
 !	O
 https://t.co/6oZ…	O
-
 RT	O
 @	O
 LanaDelRey	B-person
@@ -21709,7 +20596,6 @@ Watch	I-creative-work
 Boys	I-creative-work
 To	I-creative-work
 http://t.co/FLdvkmkwjH	O
-
 RT	O
 @	O
 YasminYonis	B-person
@@ -21747,7 +20633,6 @@ How	O
 suffocating	O
 a	O
 …	O
-
 Temp	O
 66	O
 .	O
@@ -21784,7 +20669,6 @@ https://t.co/gPtnr2dDtV	O
 stlwx	O
 #	O
 mowx	O
-
 RT	O
 @	O
 anisasx	B-person
@@ -21801,7 +20685,6 @@ who	O
 watches	O
 ahs	O
 https://t.co/g5g9LX7fA5	O
-
 RT	O
 @	O
 PauDybala	B-person
@@ -21823,7 +20706,6 @@ essere	O
 .	O
 .	O
 https://t.co/Vr8n6CLJGY	O
-
 RT	O
 @	O
 rickygervais	B-person
@@ -21853,13 +20735,11 @@ peaceful	O
 night	O
 .	O
 https://t.co/z0g9bIDulB	O
-
 RT	O
 @	O
 pipiixx	O
 :	O
 https://t.co/84tRvF1Qow	O
-
 RT	O
 @	O
 LonesomeGhosts	O
@@ -21892,7 +20772,6 @@ above	O
 the	O
 flame	O
 🔥	O
-
 How	O
 Miami	B-group
 Dolphins	I-group
@@ -21909,7 +20788,6 @@ for	O
 Dion	B-person
 Jordan	I-person
 https://t.co/41YBT4PnVC	O
-
 RT	O
 @	O
 praises	O
@@ -21943,10 +20821,8 @@ morning	O
 no	O
 matter	O
 what	O
-
 https://t.co/HS5IVlstQj	O
 https://t.co/r9ErQBSbfV	O
-
 Jimmy	B-person
 Fallon	I-person
 Makes	O
@@ -21958,7 +20834,6 @@ Sushi	O
 uganda	B-location
 business	O
 https://t.co/s2YeAWyFS5	O
-
 Aw	O
 @	O
 abbykosic	O
@@ -21969,7 +20844,6 @@ with	O
 you	O
 ❤	O
 https://t.co/J0IbSu8FLh	O
-
 RT	O
 @	O
 Hilarious	O
@@ -22001,7 +20875,6 @@ you	O
 built	O
 together	O
 .	O
-
 RT	O
 @	O
 JessieBelnap	B-person
@@ -22024,7 +20897,6 @@ longgggg	O
 !	O
 !	O
 https://t.co/PpLp7aLYH7	O
-
 Then	O
 realized	O
 i	O
@@ -22032,11 +20904,9 @@ wasnt	O
 going	O
 😩	O
 https://t.co/V4hh1LZutn	O
-
 -	O
 lc	O
 https://t.co/IApsPPIDJx	O
-
 ParkWest	B-corporation
 Staffing	O
 Services	O
@@ -22051,7 +20921,6 @@ Spring	B-location
 ,	O
 TX	B-location
 https://t.co/5dUhYD7OAt	O
-
 RT	O
 @	O
 hobxo	O
@@ -22071,12 +20940,10 @@ your	O
 homie	O
 does	O
 https://t.co/Yhy3HW0zyX	O
-
 school	O
 girls	O
 abortion	O
 https://t.co/jPlmROK39M	O
-
 RT	O
 @	O
 curscurs	O
@@ -22101,7 +20968,6 @@ chance	O
 will	O
 always	O
 exist	O
-
 Listen	O
 to	O
 PreTape	B-creative-work
@@ -22113,7 +20979,6 @@ on	O
 #	O
 SoundCloud	B-corporation
 https://t.co/5x6wc5sRqA	O
-
 RT	O
 @	O
 paleofuture	O
@@ -22142,7 +21007,6 @@ this	O
 is	O
 just	O
 …	O
-
 RT	O
 @	O
 ltsGREYSquotes	O
@@ -22153,7 +21017,6 @@ me	O
 7	O
 lol	O
 https://t.co/25ilXmLgoj	O
-
 RT	O
 @	O
 softpasteIs	O
@@ -22165,7 +21028,6 @@ field	O
 of	O
 flowers	O
 https://t.co/HxlDLinftt	O
-
 RT	O
 @	B-person
 xaytarak	I-person
@@ -22184,7 +21046,6 @@ part	O
 of	O
 my	O
 life	O
-
 How	O
 little	O
 respect	O
@@ -22211,7 +21072,6 @@ work	O
 OsborneResign	O
 …	O
 https://t.co/EQIbZM9kBb	O
-
 RT	O
 @	O
 artificaIly	O
@@ -22226,20 +21086,17 @@ is	O
 white	O
 .	O
 https://t.co/k4YzGkWhsm	O
-
 14	O
 .	O
 Lyla	O
 -	O
 MANTAN	B-person
 KEKASIH	I-person
-
 RT	O
 @	O
 LeafyIsHere	O
 :	O
 https://t.co/NMdsGpkqMt	O
-
 ShaQ	B-person
 on	O
 the	O
@@ -22258,7 +21115,6 @@ yearsss	O
 ️	O
 #	O
 freethereal	O
-
 RT	O
 @	O
 jinjjarevil	B-person
@@ -22269,7 +21125,6 @@ stop	O
 laughing	O
 HELP	O
 https://t.co/05KB18B2wf	O
-
 RT	O
 @	O
 TheBestOfGifs	O
@@ -22286,7 +21141,6 @@ and	I-creative-work
 the	I-creative-work
 Beast	I-creative-work
 https://t.co/qsy37dQgRa	O
-
 RT	O
 @	O
 ThisFoodTho	O
@@ -22295,7 +21149,6 @@ Um	O
 ,	O
 Yes	O
 https://t.co/QLBNSfPm4u	O
-
 RT	O
 @	O
 DrJimmyStar	B-person
@@ -22313,7 +21166,6 @@ friutypie	O
 @	O
 hope	O
 2259	O
-
 Listen	O
 to	O
 rock	O
@@ -22334,7 +21186,6 @@ le	O
 titre	O
 :	O
 Joyous	B-creative-work
-
 The	O
 waters	O
 of	O
@@ -22354,7 +21205,6 @@ More	O
 for	O
 Aries	O
 https://t.co/VHrNkvQZiU	O
-
 RT	O
 @	O
 tres	O
@@ -22377,7 +21227,6 @@ the	O
 pic	O
 ?	O
 https://t.co/2vQYNK1n91	O
-
 RT	O
 @	O
 MadamMelanin	O
@@ -22388,20 +21237,16 @@ for	O
 Untitled	B-corporation
 Magazine	I-corporation
 https://t.co/sO24ZLf3MA	O
-
 https://t.co/XXNpJ41oBm	O
 https://t.co/pmwJadrya7	O
-
 https://t.co/kkJ1EVpuNf	O
 https://t.co/DU6uOgMqVO	O
-
 i	O
 can	O
 smell	O
 money	O
 already	O
 https://t.co/Owbgx5peCE	O
-
 Now	O
 Playing	O
 :	O
@@ -22411,13 +21256,11 @@ Sangeet	I-creative-work
 Valeti	B-person
 Bhabiyan	I-person
 https://t.co/Rplegi07vb	O
-
 RT	O
 @	O
 AltYelloNatPark	B-location
 :	O
 https://t.co/To1QcXH8VD	O
-
 RT	O
 @	O
 Genius	O
@@ -22436,7 +21279,6 @@ mixes	I-product
 🙏	O
 https://t.co/ovR779rVVr	O
 https://t.co/ViWUQUYRCv	O
-
 #	O
 floral	B-creative-work
 #	O
@@ -22456,7 +21298,6 @@ more	O
 at	O
 :	O
 https://t.co/1gjXZd9Mg7	O
-
 @	O
 JacobRhines	B-person
 that	O
@@ -22465,7 +21306,6 @@ shit	O
 on	O
 them	O
 lol	O
-
 RT	O
 @	O
 JacobWhitesides	B-person
@@ -22475,7 +21315,6 @@ would	O
 as	O
 well	O
 https://t.co/1RcEAlxWm5	O
-
 RT	O
 @	O
 marIboros	B-person
@@ -22485,7 +21324,6 @@ do	O
 you	O
 uninstall	O
 school	O
-
 Could	O
 someone	O
 explain	O
@@ -22499,7 +21337,6 @@ hate	O
 @	O
 edsheeran	B-person
 ?	O
-
 RT	O
 @	O
 ItsTravelVibes	B-creative-work
@@ -22509,7 +21346,6 @@ Birmingham	B-location
 United	I-location
 Kingdom	I-location
 https://t.co/WcGf0C68Vz	O
-
 RT	O
 @	O
 A	O
@@ -22543,7 +21379,6 @@ here	O
 ~	O
 "	O
 https://t.co/TJbtkggDSY	O
-
 #	O
 152	O
 Chikorita	B-creative-work
@@ -22587,7 +21422,6 @@ s	O
 left	O
 )	O
 https://t.co/tQHwbjzXib	O
-
 RT	O
 @	O
 maywardUn	O
@@ -22606,7 +21440,6 @@ Organic	O
 #	O
 MAYWARDForCocaColaPH	O
 https://t.co/18p6Y8Cs7X	O
-
 @	O
 HuffPostWeird	B-corporation
 There	O
@@ -22629,7 +21462,6 @@ the	O
 subject	O
 .	O
 https://t.co/Skmrsuz98e	O
-
 RT	O
 @	O
 coIeactivity	O
@@ -22639,14 +21471,11 @@ picture	O
 screams	O
 perfection	O
 https://t.co/0XUuf288j7	O
-
 I	O
 STOPPED	O
 BREATHING	O
 https://t.co/AUZEmrRInX	O
-
 https://t.co/RMFvgIOCDa	O
-
 your	O
 smile	O
 makes	O
@@ -22657,7 +21486,6 @@ always	O
 better	O
 Jack	B-person
 Gilinsky	I-person
-
 RT	O
 @	O
 Marsupilami	O
@@ -22665,7 +21493,6 @@ _	O
 XXI	O
 :	O
 https://t.co/UkJrPlaq9t	O
-
 #	O
 xxx	O
 naked	O
@@ -22674,7 +21501,6 @@ sex	O
 beach	O
 movies	O
 https://t.co/lQsmCd9AOu	O
-
 RT	O
 @	O
 DearYouFromWe	O
@@ -22693,7 +21519,6 @@ breathe	O
 just	O
 be	O
 .	O
-
 Your	O
 natural	O
 awareness	O
@@ -22712,7 +21537,6 @@ More	O
 for	O
 Aquarius	O
 https://t.co/ubeE2ZD4ow	O
-
 Wind	O
 0	O
 ,	O
@@ -22748,7 +21572,6 @@ mm	O
 Humidity	O
 71	O
 %	O
-
 Free	O
 on	O
 eBook	B-creative-work
@@ -22763,7 +21586,6 @@ https://t.co/lSmKwx0q4g	O
 #	O
 ebblitz	B-creative-work
 https://t.co/H7qDz6E2Fv	O
-
 Shadows	O
 .	O
 We	O
@@ -22789,14 +21611,11 @@ all	O
 .	O
 …	O
 https://t.co/650uEK3Dzq	O
-
 https://t.co/TCq5aJG6Rx	O
-
 Saw	O
 a	O
 turtle	O
 https://t.co/89GYXKQHX9	O
-
 RT	O
 @	O
 amyrightside	O
@@ -22821,7 +21640,6 @@ ipad	B-product
 games	O
 #	O
 strategy	O
-
 i	O
 '	O
 m	O
@@ -22843,7 +21661,6 @@ so	O
 long	O
 for	O
 this	O
-
 We	O
 love	O
 that	O
@@ -22869,7 +21686,6 @@ today	O
 .	O
 .	O
 https://t.co/aEJ0owLbCU	O
-
 RT	O
 @	O
 climb	B-person
@@ -22880,7 +21696,6 @@ Part	O
 2	O
 .	O
 https://t.co/bmPpwNsOMh	O
-
 @	O
 chabot	B-person
 _	O
@@ -22898,7 +21713,6 @@ back	O
 for	O
 another	O
 week	O
-
 .	O
 @	O
 keselowski	B-person
@@ -22915,7 +21729,6 @@ run	O
 allianceparts	O
 @	O
 FordPerformance	B-corporation
-
 I	O
 got	O
 rear	O
@@ -22934,7 +21747,6 @@ car	O
 needed	O
 .	O
 https://t.co/4BEOtmooo9	O
-
 teen	B-creative-work
 wolf	I-creative-work
 sai	O
@@ -22944,7 +21756,6 @@ hiatus	O
 eu	O
 te	O
 imploroo	O
-
 RT	O
 @	O
 themovingroad	O
@@ -22959,7 +21770,6 @@ Og	B-person
 Mandino	I-person
 #	O
 quote	O
-
 #	O
 groovy	O
 hot	O
@@ -22969,7 +21779,6 @@ brutal	O
 interracial	O
 sex	O
 https://t.co/svhiOkac2D	O
-
 RT	O
 @	O
 BeautyOfAnAries	O
@@ -22990,7 +21799,6 @@ in	O
 4	O
 days	O
 😈	O
-
 @	O
 JuniorCyclingMY	B-group
 N	O
@@ -23006,7 +21814,6 @@ crit	O
 @	O
 khairykj	O
 https://t.co/XAsXGiPcfG	O
-
 RT	O
 @	O
 NBCGrimm	O
@@ -23027,13 +21834,11 @@ on	O
 NBC	B-corporation
 .	O
 https://t.co/lMQA8aJwzL	O
-
 Tired	O
 of	O
 fake	O
 ass	O
 love	O
-
 RT	O
 @	O
 stefondiggs	O
@@ -23051,7 +21856,6 @@ give	O
 up	O
 .	O
 .	O
-
 RT	O
 @	O
 Independent	O
@@ -23073,13 +21877,11 @@ Trump	B-group
 team	I-group
 says	O
 https://t.co/waaWhnQ07i	O
-
 https://t.co/C9riDzsJuv	O
 #	O
 GanaConWhoolist	B-person
 #	O
 ConcursoWhoolist	O
-
 @	O
 OmniDestiny	O
 I	O
@@ -23105,7 +21907,6 @@ doing	O
 so	O
 respectfully	O
 .	O
-
 RT	O
 @	O
 Hozay	B-person
@@ -23128,7 +21929,6 @@ Olive	B-location
 Garden	I-location
 instead	O
 https://t.co/ohA1BYzZsK	O
-
 RT	O
 @	O
 kiiingpin	O
@@ -23146,7 +21946,6 @@ person	O
 to	O
 talk	O
 to	O
-
 Dear	O
 Amitabh	B-person
 !	O
@@ -23168,7 +21967,6 @@ for	O
 many	O
 years	O
 !	O
-
 naked	B-creative-work
 city	I-creative-work
 tv	I-creative-work
@@ -23178,7 +21976,6 @@ nude	O
 google	O
 videos	O
 https://t.co/cFIQG0z1tV	O
-
 @	O
 TripleUrusai	O
 +	O
@@ -23208,7 +22005,6 @@ finger	O
 to	O
 it	O
 .	O
-
 Me	O
 reading	O
 really	O
@@ -23216,7 +22012,6 @@ sad	O
 manga	O
 .	O
 https://t.co/uBz9CmWSI0	O
-
 RT	O
 @	O
 KindnessOfMen	O
@@ -23232,7 +22027,6 @@ always	O
 pissed	O
 off	O
 .	O
-
 S	O
 A	O
 I	O
@@ -23262,7 +22056,6 @@ amp	O
 #	O
 Art	O
 https://t.co/aKvsWS5yOa	O
-
 Daily	O
 question	O
 1523	O
@@ -23278,7 +22071,6 @@ win	O
 #	O
 winners	O
 https://t.co/p4a9cif6Oj	O
-
 Madama	B-creative-work
 butterfly	I-creative-work
 in	O
@@ -23306,7 +22098,6 @@ s	O
 .	O
 .	O
 https://t.co/ZYqghgQBYp	O
-
 RT	O
 @	O
 ricardojkay	O
@@ -23322,7 +22113,6 @@ natural	O
 me	O
 :	O
 https://t.co/GkHJoYTgRW	O
-
 Do	O
 You	O
 Have	O
@@ -23335,7 +22125,6 @@ It	O
 Published	O
 .	O
 https://t.co/KXfFdDcPE6	O
-
 People	O
 Say	O
 I	O
@@ -23359,7 +22148,6 @@ Don	O
 t	O
 Smoke	O
 !	O
-
 RT	O
 @	O
 amber	B-person
@@ -23371,7 +22159,6 @@ happens	O
 for	O
 a	O
 reason	O
-
 RT	O
 @	O
 klathelyricist	B-person
@@ -23391,7 +22178,6 @@ Grow	O
 or	O
 go	O
 .	O
-
 RT	O
 @	O
 LlTFREESTYLES	O
@@ -23404,7 +22190,6 @@ for	O
 Lil	B-person
 Yachty	I-person
 https://t.co/Q9IhFEdq5X	O
-
 Not	O
 in	O
 his	O
@@ -23438,18 +22223,15 @@ advice	O
 f	O
 …	O
 https://t.co/abULFwuvWw	O
-
 stunning	O
 earrings	O
 https://t.co/IrUcgYxk26	O
 https://t.co/YerXgDeLfP	O
-
 RT	O
 @	O
 nakbebel	O
 :	O
 https://t.co/nvvC11Jfe9	O
-
 RT	O
 @	O
 nprmusic	B-group
@@ -23480,7 +22262,6 @@ via	O
 VuHaus	O
 .	O
 …	O
-
 "	O
 [	O
 W	O
@@ -23498,7 +22279,6 @@ noses	O
 .	O
 "	O
 https://t.co/J9lFcRp2xj	O
-
 RT	O
 @	O
 WTF	O
@@ -23520,13 +22300,11 @@ abpoli	O
 #	O
 Notley	O
 https://t.co/xbGXAlz2q9	O
-
 #	O
 resist	O
 #	O
 respect	O
 https://t.co/S33Aqnzc2r	O
-
 I	O
 just	O
 want	O
@@ -23542,7 +22320,6 @@ Pearson	I-person
 loves	O
 Rebecca	B-person
 .	O
-
 RT	O
 @	O
 twentyonepilots	O
@@ -23560,7 +22337,6 @@ up	O
 :	O
 https://t.co/dXf5vti3RU	O
 https://t.co/ecLypmnxxu	O
-
 https://t.co/yUvYvjLhNi	O
 Listen	O
 to	O
@@ -23578,7 +22354,6 @@ work-related	O
 injuries	O
 .	O
 https://t.co/zz1wnfmQQR	O
-
 RT	O
 @	O
 FlirtyNotes	B-creative-work
@@ -23598,7 +22373,6 @@ live	O
 without	O
 them	O
 .	O
-
 @	O
 CBSSports	B-corporation
 @	O
@@ -23608,7 +22382,6 @@ hate	O
 that	O
 family	O
 .	O
-
 RT	O
 @	O
 boujeetuan	O
@@ -23644,7 +22417,6 @@ weed	O
 -	O
 s	O
 …	O
-
 RT	O
 @	O
 WhoadieBrees	O
@@ -23656,7 +22428,6 @@ Melo	O
 in	O
 the	O
 iso	O
-
 RT	O
 @	O
 FemaleKnows	O
@@ -23674,7 +22445,6 @@ or	O
 text	O
 me	O
 https://t.co/0zI1d5mxfG	O
-
 RT	O
 @	O
 jackiedomingez	B-person
@@ -23684,7 +22454,6 @@ loml	O
 picked	O
 this	O
 https://t.co/jPBeiJnDip	O
-
 @	O
 Hugo	B-creative-work
 _	O
@@ -23695,7 +22464,6 @@ Hugo	B-creative-work
 check	O
 it	O
 https://t.co/879v3gOyty	O
-
 RT	O
 @	O
 MarshmallowDoof	O
@@ -23712,7 +22480,6 @@ Mama	I-creative-work
 @	O
 BuxbiArts	O
 https://t.co/jjvS2aLyHb	O
-
 RT	O
 @	B-person
 defeitoslauren	I-person
@@ -23723,7 +22490,6 @@ error	O
 could	O
 not	O
 found	O
-
 Nexus	B-product
 6	I-product
 P	I-product
@@ -23758,7 +22524,6 @@ PLeather	I-product
 Nexus	B-product
 6	I-product
 PCase	I-product
-
 RT	O
 @	O
 _	O
@@ -23774,7 +22539,6 @@ can	O
 phase	O
 me	O
 .	O
-
 /	O
 .	O
 Trump	B-group
@@ -23790,7 +22554,6 @@ on	O
 student	O
 loans	O
 https://t.co/YPe2DRsjLe	O
-
 How	O
 ,	O
 Russ	B-person
@@ -23802,7 +22565,6 @@ AssistOfTheNight	O
 https://t.co/RPOPm3Mdup	O
 #	O
 RhodeIsland	B-location
-
 RT	O
 @	O
 hobuing	O
@@ -23833,7 +22595,6 @@ t	O
 worry	O
 "	O
 https://t.co/O7wRPyZSJ6	O
-
 #	O
 VoiceOfWipro	O
 #	O
@@ -23843,15 +22604,12 @@ CargoIndustry	B-group
 #	O
 UX	O
 https://t.co/02Vzy4mDqc	O
-
 Perspective	O
 is	O
 everything	O
 .	O
 https://t.co/z3t0Po9knb	O
-
 https://t.co/rfHnzqMp2x	O
-
 RT	O
 @	O
 SalHernandez	B-person
@@ -23882,14 +22640,12 @@ his	O
 report	O
 '	O
 https://…	O
-
 RT	O
 @	O
 WorldStarFunny	O
 :	O
 Agreed	O
 https://t.co/gxHGuH0MR4	O
-
 RT	O
 @	O
 anisasx	O
@@ -23903,7 +22659,6 @@ so	O
 monotone	O
 lool	O
 https://t.co/Bd9Cy8BCFv	O
-
 Alain	B-person
 3378	O
 played	O
@@ -23923,7 +22678,6 @@ hours	O
 https://t.co/6Tm2ZBNKip	O
 #	O
 exophase	O
-
 RT	O
 @	O
 bubblestbh	B-person
@@ -23958,17 +22712,14 @@ stalked	O
 ur	O
 Instagr	B-product
 …	O
-
 grave	O
 https://t.co/JnLglavS4c	O
-
 Curious	B-person
 George	I-person
 really	O
 is	O
 the	O
 GOAT	O
-
 RT	O
 @	O
 JacobSiSLife	O
@@ -23987,7 +22738,6 @@ realize	O
 stay	O
 strong	O
 💓	O
-
 RT	O
 @	O
 fordm	B-person
@@ -23999,7 +22749,6 @@ s	O
 husband	O
 .	O
 https://t.co/ZbjG3oaibk	O
-
 A	O
 massive	O
 happy	O
@@ -24027,7 +22776,6 @@ deserve	O
 i	O
 …	O
 https://t.co/3F2yHSidpy	O
-
 RT	O
 @	O
 eatmypepi	O
@@ -24062,7 +22810,6 @@ die	O
 .	O
 .	O
 https://t.co/qrnNcOlbss	O
-
 RT	O
 @	O
 LessGovMoreFun	O
@@ -24089,7 +22836,6 @@ Wiretap	O
 #	O
 WireGate	O
 https://t.co/gFWJJ5Llx0	O
-
 It	O
 '	O
 s	O
@@ -24109,7 +22855,6 @@ young	O
 nigga	O
 !	O
 https://t.co/JUmMFHKICz	O
-
 Simple	O
 Strategy	O
 to	O
@@ -24125,7 +22870,6 @@ evils	O
 of	O
 inflation	O
 https://t.co/BodTL8r1pU	O
-
 #	O
 Fake	O
 news	O
@@ -24147,9 +22891,7 @@ fake	O
 #	O
 news	O
 https://t.co/xIomaTeVGX	O
-
 https://t.co/DdJpiieeak	O
-
 RT	O
 @	O
 V	O
@@ -24185,7 +22927,6 @@ continent	O
 is	O
 unpr	O
 …	O
-
 RT	O
 @	O
 elklien	B-person
@@ -24211,7 +22952,6 @@ relationships	O
 at	O
 a	O
 time	O
-
 Ever	O
 get	O
 a	O
@@ -24233,7 +22973,6 @@ Jealous	O
 ?	O
 #	O
 unlikeable	O
-
 @	O
 Yoshkumar	B-person
 Happens	O
@@ -24245,7 +22984,6 @@ s	O
 Esports	B-creative-work
 for	O
 ya	O
-
 kim	B-person
 burrel	I-person
 -	O
@@ -24258,7 +22996,6 @@ https://t.co/5SXwx5nhYa	O
 NowPlaying	O
 #	O
 ListenLive	O
-
 RT	O
 @	O
 sensualgifs	O
@@ -24279,7 +23016,6 @@ and	O
 says	O
 yes	O
 https://t.co/RYsrtZtbTD	O
-
 RT	O
 @	O
 boyband	B-group
@@ -24314,14 +23050,12 @@ Everyone	O
 ❤	O
 TeamJOA	B-group
 …	O
-
 RT	O
 @	O
 DailySexSupply	O
 7	O
 :	O
 https://t.co/q8ASkhEIJl	O
-
 Here	O
 ’	O
 s	O
@@ -24351,7 +23085,6 @@ or	O
 this	O
 link	O
 https://t.co/On1vy7vwzP	O
-
 RT	O
 @	O
 Drebae	B-person
@@ -24381,7 +23114,6 @@ that	O
 shit	O
 out	O
 https://t.co/NDW…	O
-
 RT	O
 @	O
 GreaterThn	O
@@ -24396,7 +23128,6 @@ fine	O
 Me	O
 :	O
 https://t.co/Bqy8z0Fuus	O
-
 Latest	O
 level	O
 :	O
@@ -24426,7 +23157,6 @@ at	O
 https://t.co/4yVobHQ8mL	O
 #	O
 riverlevels	O
-
 RT	O
 @	O
 anthonyuJR	B-person
@@ -24437,7 +23167,6 @@ believe	O
 in	O
 myself	O
 https://t.co/FsGrGS1pz7	O
-
 RT	O
 @	O
 TheCourtKim	O
@@ -24460,7 +23189,6 @@ not	O
 exist	O
 ✨	O
 https://t.co/WeVSETs3KH	O
-
 Now	O
 Playing	O
 :	O
@@ -24472,7 +23200,6 @@ Listen	O
 at	O
 https://t.co/3OZcf8iDZJ	O
 https://t.co/tkkXMAhzsn	O
-
 RT	O
 @	O
 rhettandlink	B-person
@@ -24486,7 +23213,6 @@ the	O
 vomit	O
 starts	O
 slipping	O
-
 @	O
 RichmondDoc	B-group
 TY	I-group
@@ -24503,7 +23229,6 @@ right	O
 of	O
 you	O
 .	O
-
 RT	O
 @	O
 thegirlzakiyyah	O
@@ -24531,7 +23256,6 @@ s	O
 for	O
 u	O
 https://t.co/voDJgXTqsz	O
-
 RT	O
 @	O
 litgrimes	O
@@ -24546,7 +23270,6 @@ she	O
 like	O
 me	O
 https://t.co/gJH2WCGYIu	O
-
 RT	O
 @	O
 marIboros	B-person
@@ -24558,14 +23281,12 @@ born	O
 with	O
 attitudes	O
 lol	O
-
 A	O
 proper	O
 #	O
 StPatricksDay	O
 drink	O
 https://t.co/c4VcUFEQXw	O
-
 RT	O
 @	O
 PainfulText	O
@@ -24580,15 +23301,12 @@ brain	O
 overthinks	O
 literally	O
 everything	O
-
 Never	O
 Been	O
 To	O
 Shakers	B-location
 Before	O
-
 https://t.co/hh3PVQ5L0a	O
-
 RT	O
 @	O
 Ioverthoughts	O
@@ -24604,7 +23322,6 @@ wearing	O
 XL	O
 tshirts	O
 more	O
-
 RT	O
 @	O
 tybrokesign	O
@@ -24616,7 +23333,6 @@ plot	O
 twist	O
 LMAOOOO	O
 https://t.co/9ytVOPvu8D	O
-
 It	O
 '	O
 s	O
@@ -24636,7 +23352,6 @@ too	O
 ✌	O
 #	O
 ATCCfoodie	O
-
 No	O
 Cousins	B-group
 today	O
@@ -24659,7 +23374,6 @@ and	O
 we	O
 hit	O
 jumpers	O
-
 @	B-person
 KenyeahMonae	I-person
 It	O
