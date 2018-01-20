@@ -1,4 +1,4 @@
-# lab_final_task
+# Final Task - NLP Lab 
 **Tools Used** 
 - MIT Information Extraction Lib that is based on dlib - a high-performance machine-learning library[1]. MITIE makes use of several state-of-the-art techniques including the use of distributional word embeddings[2] and Structural Support Vector Machines[3]. MITIE offers several pre-trained models providing varying levels of support for English trained using a variety of linguistic resources (e.g., CoNLL 2003, ACE, Wikipedia, Freebase, and Gigaword).
 
